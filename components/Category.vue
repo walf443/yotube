@@ -4,7 +4,7 @@
     <div v-for="(level, index) in category.levels" :key={index}>
       <div>レベル{{index + 1}}</div>
       <div v-for="(trick, index) in level.tricks" :key={index}>
-        <div>{{trick.name}}</div>
+        <div><nuxt-link :to="{ name: 'tricks-name', params: { name: trick.name } }">{{trick.name}}</nuxt-link></div>
       </div>
     </div>
   </div>
