@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "@nuxtjs/axios": "^5.0.0",
+    "js-yaml": "^3.12.0",
     "nuxt": "^2.2.0",
     "nuxt-property-decorator": "^1.2.0",
     "vuex-class": "^0.3.0"
@@ -12,6 +13,7 @@
     "dev": "nuxt",
     "build": "nuxt build",
     "start": "nuxt start",
+    "yaml2json": "js-yaml static/tricks.yml > static/tricks.json",
     "generate": "nuxt generate"
   },
   "devDependencies": {

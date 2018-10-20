@@ -1,8 +1,8 @@
 <template>
   <section>
-    <h1 class="header">Nuxt TypeScript Starter</h1>
-    <div class="cards">
-      <Card v-for="person in people" :key="person.id" :person="person"></Card>
+    <h1 class="header">Yoyotube</h1>
+    <div class="categories">
+      <Category v-for="(category, index) in categories" :key="index" :category="category"></Category>
     </div>
   </section>
 </template>
@@ -13,15 +13,15 @@ import {
   Vue
 } from "nuxt-property-decorator"
 import { State } from "vuex-class"
-import Card from "~/components/Card.vue"
+import Category from "../components/Category.vue"
 
 @Component({
   components: {
-    Card
+    Category
   }
 })
 export default class extends Vue {
-  @State people
+  @State categories
 }
 </script>
 <style scoped>
