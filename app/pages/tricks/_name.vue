@@ -14,18 +14,7 @@ import {
   Vue
 } from "nuxt-property-decorator"
 import { State } from "vuex-class"
-
-function findTrick(categories: any, name: string): any {
-  for (const category of categories) {
-    for (const level of category.levels) {
-      for ( const trick of level.tricks ) {
-        if (trick.name === name) {
-          return trick
-        }
-      }
-    }
-  }
-}
+import {findTrickByName} from "~/utils/trick"
 
 @Component({
   components: {
@@ -34,7 +23,7 @@ function findTrick(categories: any, name: string): any {
 export default class extends Vue {
   @State categories;
   get trick () {
-    return findTrick(this.categories, this.$route.params.name);
+    return findTrickByName(this.categories, this.$route.params.name);
   }
 }
 </script>
