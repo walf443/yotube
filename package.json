@@ -13,7 +13,7 @@
     "dev": "nuxt",
     "build": "nuxt build",
     "start": "nuxt start",
-    "yaml2json": "js-yaml static/tricks.yml > static/tricks.json",
+    "yaml2json": "js-yaml app/static/tricks.yml > app/static/tricks.json",
     "generate": "nuxt generate"
   },
   "devDependencies": {
