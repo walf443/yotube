@@ -12,9 +12,6 @@
     "suppressImplicitAnyIndexErrors": true,
     "allowSyntheticDefaultImports": true,
     "allowJs": true,
-    "baseUrl": ".",
-    "paths": {
-      "~/*": ["./*"]
-    }
+    "baseUrl": "app/"
   }
 }
