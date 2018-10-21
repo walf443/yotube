@@ -2,6 +2,7 @@
   <div v-if="trick">
     <section>
       <h1 class="header">{{trick.name}}</h1>
+      <Trick :trick="trick" />
       <div class="categories">
       </div>
     </section>
@@ -15,12 +16,14 @@ import {
 } from "nuxt-property-decorator"
 import { State } from "vuex-class"
 import {findTrickByName} from "~/utils/trick"
+import Trick from "~/components/Trick"
 
 @Component({
   components: {
+    Trick
   }
 })
-export default class extends Vue {
+export default class TagNamePage extends Vue {
   @State categories;
   get trick () {
     return findTrickByName(this.categories, this.$route.params.name);
