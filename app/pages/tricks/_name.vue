@@ -1,8 +1,7 @@
 <template>
   <section>
     <div v-if="trick">
-      <h1 class="header">{{trick.name}}</h1>
-      <Trick :trick="trick" />
+      <Trick :trick="trick" :isExpanded="true"/>
       <div class="categories">
       </div>
     </div>
@@ -31,9 +30,5 @@ export default class TagNamePage extends Vue {
 }
 </script>
 <style scoped>
-.header {
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana,
-    sans-serif;
-}
 
 </style>
