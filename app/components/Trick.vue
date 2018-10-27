@@ -1,6 +1,9 @@
 <template>
-    <div class="card">
-      <iframe class="youtubePlayer" :src="videoUrl" />
+    <div>
+        <nuxt-link :to="{ name: 'tricks-name', params: { name: trick.name } }">{{trick.name}}</nuxt-link>
+        <div class="card">
+            <iframe class="youtubePlayer" :src="videoUrl" />
+        </div>
     </div>
 </template>
 

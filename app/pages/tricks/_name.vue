@@ -1,12 +1,12 @@
 <template>
-  <div v-if="trick">
-    <section>
+  <section>
+    <div v-if="trick">
       <h1 class="header">{{trick.name}}</h1>
       <Trick :trick="trick" />
       <div class="categories">
       </div>
-    </section>
-  </div>
+    </div>
+  </section>
 </template>
 
 <script lang="ts">

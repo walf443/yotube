@@ -3,7 +3,7 @@
         <section id="TheHeader">
             <nuxt-link id="TheLogo" :to="{ path: '/' }" >Yoyotube</nuxt-link>
         </section>
-        <section id="TheMain">
+        <section id="TheMain" class="container">
             <nuxt/>
         </section>
     </section>
@@ -20,5 +20,9 @@
         font-size: 20px;
         color: red;
         text-decoration: none;
+    }
+
+    #TheMain {
+        color: white;
     }
 </style>
