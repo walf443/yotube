@@ -11,3 +11,12 @@ export function findTrickByName(categories: any, name: string): any {
   }
   return null;
 }
+
+export function findCategoryByName(categories: any, name: string): any {
+    for (const category of categories) {
+        if (category.name === name) {
+            return category;
+        }
+    }
+    return null;
+}
