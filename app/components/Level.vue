@@ -12,7 +12,7 @@
 </template>
 <script lang="ts">
     import {Vue, Component, Prop} from "nuxt-property-decorator";
-    import Trick from "../components/Trick"
+    import Trick from "./Trick"
 
     @Component({
         components: {Trick},

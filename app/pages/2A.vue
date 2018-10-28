@@ -10,8 +10,8 @@ import {
   Vue
 } from "nuxt-property-decorator"
 import { State } from "vuex-class"
-import {findCategoryByName} from "~/utils/trick"
-import Category from "~/components/Category"
+import {findCategoryByName} from "../utils/trick"
+import Category from "../components/Category"
 
 @Component({
   components: {

@@ -14,8 +14,8 @@ import {
   Vue
 } from "nuxt-property-decorator"
 import { State } from "vuex-class"
-import {findTrickByName} from "~/utils/trick"
-import Trick from "~/components/Trick"
+import {findTrickByName} from "../../utils/trick"
+import Trick from "../../components/Trick"
 
 @Component({
   components: {
