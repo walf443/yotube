@@ -31,7 +31,7 @@
             return `レベル${this.index + 1}`;
         }
         get pagePath(): string {
-            return `${this.category.name}/level${this.index + 1}`;
+            return `/${this.category.name}/level${this.index + 1}`;
         }
         toggleExpanded() {
             this.isExpanded = !this.isExpanded;
