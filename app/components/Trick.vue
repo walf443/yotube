@@ -1,6 +1,6 @@
 <template>
     <div>
-        <nuxt-link class="title" :to="{ name: 'tricks-name', params: { name: trick.name } }">{{trick.name}}</nuxt-link>
+        <div class="title">{{trick.name}}</div>
         <div v-if="isExpanded">
             <iframe class="youtubePlayer" :src="videoUrl" />
         </div>
@@ -34,11 +34,6 @@
     .title {
         font-size: 20px;
         font-weight: bold;
-    }
-
-    a {
-        color: white;
-        text-decoration: none;
     }
 
 </style>
