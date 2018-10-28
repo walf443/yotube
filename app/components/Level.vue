@@ -6,11 +6,9 @@
             </nuxt-link>
         </h3>
 
-        <div v-if="isExpanded">
-            <div v-for="(trick, index) in level.tricks" :key={index} style="display: flex; flex: 1">
-                <div>
-                    <Trick :trick="trick" isExpanded="true" />
-                </div>
+        <div v-if="isExpanded" class="trick-container">
+            <div class="trick-item" v-for="(trick, index) in level.tricks" :key={index} style="display: flex; flex: 1">
+                <Trick :trick="trick" isExpanded="true" />
             </div>
         </div>
     </div>
@@ -43,5 +41,15 @@
     h3 a {
         color: white;
         text-decoration: none;
+    }
+
+    .trick-container {
+        display: inline-flex;
+        justify-content: left;
+        flex-wrap: wrap;
+        flex: 1;
+    }
+
+    .trick-item {
     }
 </style>
