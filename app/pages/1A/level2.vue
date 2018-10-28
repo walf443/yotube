@@ -29,7 +29,7 @@ export default class extends Vue {
   }
 
   get levelIndex(): number {
-      return 0;
+      return 1;
   }
 }
 </script>

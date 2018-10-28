@@ -2,7 +2,7 @@
   <div>
       <h2><nuxt-link :to="{ 'path': `/${category.name}` }">{{ category.name }}</nuxt-link></h2>
     <div v-for="(level, index) in category.levels" :key={index}>
-        <Level :index="index" :level="level"/>
+        <Level :index="index" :level="level" :category="category" />
     </div>
   </div>
 </template>
