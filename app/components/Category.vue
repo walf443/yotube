@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h2>{{ category.name }}</h2>
+      <h2><nuxt-link :to="{ 'path': category.name }">{{ category.name }}</nuxt-link></h2>
     <div v-for="(level, index) in category.levels" :key={index}>
         <Level :index="index" :level="level"/>
     </div>
@@ -28,3 +28,13 @@ export default class Category extends Vue {
 
 }
 </script>
+<style>
+    h2 a {
+        color: white;
+        text-decoration: none;
+    }
+    h2 a:hover {
+        text-decoration: underline;
+    }
+
+</style>
