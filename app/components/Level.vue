@@ -7,7 +7,7 @@
         </h3>
 
         <div v-if="isExpanded" class="trick-container">
-            <div class="trick-item" v-for="(trick, index) in level.tricks" :key={index} style="display: flex; flex: ">
+            <div class="trick-item" v-for="(trick, index) in level.tricks" :key=trick.id style="display: flex; flex: ">
                 <Trick :trick="trick" isExpanded="true" />
             </div>
         </div>

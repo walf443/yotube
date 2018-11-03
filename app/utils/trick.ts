@@ -4,15 +4,18 @@ export namespace utils {
         en: string
     }
     export interface Trick {
+        id: string
         name: Content
         note: Content
     }
 
     export interface Level {
+        id: string
         tricks: Trick[]
     }
 
     export interface Category {
+        id: string
         name: string
         levels: Level[]
     }
