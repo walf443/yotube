@@ -1,1957 +1,2547 @@
-- name: 1A
+- id: 1a
+  name: 1A
   levels:
-    - name: level1
+    - id: 1a-level1
+      name: level1
       tricks:
-        - name:
+        - id: 1a-level1-trick1
+          name:
+            en: Double-On Trapeze
+            ja: ダブルオン・トラピーズ（リンディ・ループ、ビル・スペシャル）
+          note:
+            ja: ''
+            en: ''
+        - id: 1a-level1-trick2
+          name:
             en: Trapeze Repeat
             ja: トラピーズ・リピート
           note:
             ja: 3回
             en: ''
-        - name:
+        - id: 1a-level1-trick3
+          name:
             en: Trapeze Backflip
             ja: トラピーズ・バックフリップ（ムーンサルト・バックフリップ）
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 1a-level1-trick4
+          name:
             en: Split the Atom (Atom Smasher)
             ja: スプリット・ジ・アトム
           note:
             ja: 3回
             en: ''
-        - name:
+        - id: 1a-level1-trick5
+          name:
             en: Double or Nothing
             ja: ダブル・オア・ナッシング
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 1a-level1-trick6
+          name:
             en: Barrel Roll (Atomic Bomb)
             ja: バレル・ロール（アトミック・ファイヤー）
           note:
             ja: 3回
             en: ''
-        - name:
+        - id: 1a-level1-trick7
+          name:
             en: String Twist
             ja: ストリング・ツイスト（ヨリなおし）
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 1a-level1-trick8
+          name:
             en: Roller Coaster (THP)
             ja: ローラー・コースター
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 1a-level1-trick9
+          name:
             en: 1.5 Mount
             ja: １．５マウント（ワン・アンド・ハーフ・マウント）
           note:
             ja: ''
             en: ''
-    - name: level2
+    - id: 1a-level2
+      name: level2
       tricks:
-        - name:
+        - id: 1a-level2-trick1
+          name:
+            en: Laceration
+            ja: ラセレーション
+          note:
+            ja: ''
+            en: ''
+        - id: 1a-level2-trick2
+          name:
             en: Bermuda Triangle
             ja: バミューダ・トライアングル
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 1a-level2-trick3
+          name:
             en: Plastic Whip
             ja: プラスチック・ウィップ
           note:
             ja: サイドスローから
             en: ''
-        - name:
+        - id: 1a-level2-trick4
+          name:
             en: Green Triangle
             ja: グリーン・トライアングル
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 1a-level2-trick5
+          name:
             en: Mach Five
             ja: マッハ・ファイブ
           note:
             ja: 5回
             en: ''
-        - name:
+        - id: 1a-level2-trick6
+          name:
             en: Triple or Nothing
             ja: トリプル・オア・ナッシング
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 1a-level2-trick7
+          name:
             en: Ripcord
             ja: リップコード
           note:
             ja: 前後両方
             en: ''
-        - name:
+        - id: 1a-level2-trick8
+          name:
             en: Singapore Sling
             ja: シンガポール・スリング
           note:
             ja: 2回
             en: ''
-        - name:
+        - id: 1a-level2-trick9
+          name:
             en: Tajima Bound
             ja: タジマ・バウンド
           note:
             ja: 3回
             en: ''
-    - name: level3
+    - id: 1a-level3
+      name: level3
       tricks:
-        - name:
+        - id: 1a-level3-trick1
+          name:
+            en: Black Hole
+            ja: ブラック・ホール
+          note:
+            ja: ピンホイールを2回ずつ
+            en: ''
+        - id: 1a-level3-trick2
+          name:
             en: Transitional Leg Trapeze
             ja: トランジショナル・レッグ・トラピーズ
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 1a-level3-trick3
+          name:
             en: Poppin Fresh
             ja: ポッピン・フレッシュ
           note:
             ja: 2回
             en: ''
-        - name:
+        - id: 1a-level3-trick4
+          name:
             en: Chain Reaction
             ja: チェイン・リアクション
           note:
             ja: 3回
             en: ''
-        - name:
+        - id: 1a-level3-trick5
+          name:
             en: Gerbil
             ja: ジャーブル
           note:
             ja: 止まらずに
             en: ''
-        - name:
+        - id: 1a-level3-trick6
+          name:
             en: Shoulder Trapeze
             ja: ショルダー・トラピーズ
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 1a-level3-trick7
+          name:
             en: 1.5 Green Triangle
             ja: 1.5グリーン・トライアングル
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 1a-level3-trick8
+          name:
             en: Matrix
             ja: マトリックス
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 1a-level3-trick9
+          name:
             en: Quick Hop
             ja: クイックホップ
           note:
             ja: 3回
             en: ''
-    - name: level4
+    - id: 1a-level4
+      name: level4
       tricks:
-        - name:
+        - id: 1a-level4-trick1
+          name:
+            en: Eli Hop
+            ja: イーライ・ホップ
+          note:
+            ja: 3回、ストリング半分長
+            en: ''
+        - id: 1a-level4-trick2
+          name:
             en: Crossed Arm Trapeze
             ja: クロスアーム・トラピーズ
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 1a-level4-trick3
+          name:
             en: Revolution
             ja: レボリューション
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 1a-level4-trick4
+          name:
             en: Houdini Whip
             ja: フーディーニ・ウィップ
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 1a-level4-trick5
+          name:
             en: Boingy Boingy
             ja: ボヨン・ボヨン
           note:
             ja: 5回
             en: ''
-        - name:
+        - id: 1a-level4-trick6
+          name:
             en: Slack Whip (Jade Whip)
             ja: スラック・ウィップ
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 1a-level4-trick7
+          name:
             en: Zigzag Rail
             ja: ジグザグ・レール
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 1a-level4-trick8
+          name:
             en: Ping Pong (from Tower)
             ja: ピンポン
           note:
             ja: 2回
             en: ''
-        - name:
+        - id: 1a-level4-trick9
+          name:
             en: Jason Slack
             ja: ジェイソン・スラック
           note:
             ja: ''
             en: ''
-    - name: level5
+    - id: 1a-level5
+      name: level5
       tricks:
-        - name:
+        - id: 1a-level5-trick1
+          name:
+            en: Slack Trapeze
+            ja: スラック・トラピーズ
+          note:
+            ja: 2回
+            en: ''
+        - id: 1a-level5-trick2
+          name:
             en: Kwijibo
             ja: クイジボ
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 1a-level5-trick3
+          name:
             en: (Hidemasa) Hook
             ja: フック
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 1a-level5-trick4
+          name:
             en: Candy Rain
             ja: キャンディー・レイン
           note:
             ja: 2回
             en: ''
-        - name:
+        - id: 1a-level5-trick5
+          name:
             en: Yuuki Slack
             ja: ユウキ・スラック
           note:
             ja: 3回
             en: ''
-        - name:
+        - id: 1a-level5-trick6
+          name:
             en: Sarvant Recapture
             ja: サラバント・リキャプチャー
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 1a-level5-trick7
+          name:
             en: Gyro Turn
             ja: ジャイロ・ターン
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 1a-level5-trick8
+          name:
             en: Bottom Mount Hop
             ja: ボトム・マウント・ホップ
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 1a-level5-trick9
+          name:
             en: Candey Rain2
             ja: キャンディー・レイン２
           note:
             ja: ''
             en: ''
-    - name: level6
+    - id: 1a-level6
+      name: level6
       tricks:
-        - name:
+        - id: 1a-level6-trick1
+          name:
+            en: Alt. Eli Hop
+            ja: オルタナティブ・イーライ・ホップ
+          note:
+            ja: 2回、ストリング半分長
+            en: ''
+        - id: 1a-level6-trick2
+          name:
             en: Suicide Catch
             ja: スーサイド・キャッチ
           note:
             ja: 1回
             en: ''
-        - name:
+        - id: 1a-level6-trick3
+          name:
             en: Iron Whip
             ja: アイアン・ウィップ
           note:
             ja: 1回
             en: ''
-        - name:
+        - id: 1a-level6-trick4
+          name:
             en: Flick Whip
             ja: フリック・ウィップ
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 1a-level6-trick5
+          name:
             en: Left Hand Rail / Right Hand Rail
             ja: レフト・ハンド・レール／ライト・ハンド・レール
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 1a-level6-trick6
+          name:
             en: String Rejection
             ja: ストリング・リジェクション
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 1a-level6-trick7
+          name:
             en: Flying Green Triangle
             ja: フライング・グリーン・トライアングル
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 1a-level6-trick8
+          name:
             en: Throwhand Grind
             ja: スローハンド・グラインド
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 1a-level6-trick9
+          name:
             en: Jason Sling
             ja: ジェイソン・スリング
           note:
             ja: 3回
             en: ''
-    - name: level7
+    - id: 1a-level7
+      name: level7
       tricks:
-        - name:
+        - id: 1a-level7-trick1
+          name:
+            en: Reverse Hook
+            ja: リバース・フック
+          note:
+            ja: ''
+            en: ''
+        - id: 1a-level7-trick2
+          name:
             en: Laceration Green Triangle
             ja: ラセレーション・グリーン・トライアングル
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 1a-level7-trick3
+          name:
             en: The End
             ja: ジ・エンド
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 1a-level7-trick4
+          name:
             en: Sarvant
             ja: サラバント
           note:
             ja: 3回
             en: ''
-        - name:
+        - id: 1a-level7-trick5
+          name:
             en: D-Three
             ja: Ｄスリー
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 1a-level7-trick6
+          name:
             en: Shockwave
             ja: ショックウェーブ
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 1a-level7-trick7
+          name:
             en: Spirit Bomb
             ja: スピリット・ボム
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 1a-level7-trick8
+          name:
             en: Grind Through Triangle
             ja: グラインド・スルー・トライアングル
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 1a-level7-trick9
+          name:
             en: Kamikaze
             ja: カミカゼ
           note:
             ja: 3回
             en: ''
-    - name: level8
+    - id: 1a-level8
+      name: level8
       tricks:
-        - name:
+        - id: 1a-level8-trick1
+          name:
+            en: Follow
+            ja: フォロー
+          note:
+            ja: 3回以上、最後はスラック・ウィップ
+            en: ''
+        - id: 1a-level8-trick2
+          name:
             en: Black Hop
             ja: ブラック・ホップ
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 1a-level8-trick3
+          name:
             en: Hook 1.5
             ja: フック１．５
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 1a-level8-trick4
+          name:
             en: Super Man
             ja: スーパーマン
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 1a-level8-trick5
+          name:
             en: Protrusion
             ja: プロトリュージョン
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 1a-level8-trick6
+          name:
             en: Iwasawa Hook
             ja: イワサワ・フック
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 1a-level8-trick7
+          name:
             en: Circlular Eli Hop
             ja: サーキュラー・イーライ・ホップ
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 1a-level8-trick8
+          name:
             en: Hook 2.0
             ja: フック２．０
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 1a-level8-trick9
+          name:
             en: Green Triangle Reverse Suicide
             ja: グリーン・トライアングル・リバース・スーサイド
           note:
             ja: 2回
             en: ''
-    - name: level9
+    - id: 1a-level9
+      name: level9
       tricks:
-        - name:
+        - id: 1a-level9-trick1
+          name:
+            en: Zipper
+            ja: ジッパー
+          note:
+            ja: 3回
+            en: ''
+        - id: 1a-level9-trick2
+          name:
             en: Cold Fusion
             ja: コールド・フュージョン
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 1a-level9-trick3
+          name:
             en: Adv. Split the Atom
             ja: アドバンスド・スプリット・ジ・アトム
           note:
             ja: 3-3-3回
             en: ''
-        - name:
+        - id: 1a-level9-trick4
+          name:
             en: Buddha Revenge
             ja: ブッダ・リベンジ
           note:
             ja: 3回
             en: ''
-        - name:
+        - id: 1a-level9-trick5
+          name:
             en: Nanda Kanda
             ja: ナンダ・カンダ
           note:
             ja: 3回
             en: ''
-        - name:
+        - id: 1a-level9-trick6
+          name:
             en: Boomerang
             ja: ブーメラン
           note:
             ja: 3回
             en: ''
-        - name:
+        - id: 1a-level9-trick7
+          name:
             en: Cheese Whip Mount
             ja: チーズ・ウィップ・マウント
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 1a-level9-trick8
+          name:
             en: Crossed Arm BT
             ja: クロスアーム・ブレイン・ツイスター
           note:
             ja: 2回
             en: ''
-        - name:
+        - id: 1a-level9-trick9
+          name:
             en: Three Seven
             ja: スリー・セブン
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 1a-level9-trick10
+          name:
             en: Gondola
             ja: ゴンドラ
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 1a-level9-trick11
+          name:
             en: Multiple Gyro Flop
             ja: マルチプル・ジャイロ・フロップ
           note:
             ja: 完全に2周
             en: ''
-        - name:
+        - id: 1a-level9-trick12
+          name:
             en: Mind Bend Suicide
             ja: マインド・ベンド・スーサイド
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 1a-level9-trick13
+          name:
             en: Suicide 1.5
             ja: スーサイド１．５
           note:
             ja: 1回
             en: ''
-        - name:
+        - id: 1a-level9-trick14
+          name:
             en: White Buddha
             ja: ホワイト・ブッダ
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 1a-level9-trick15
+          name:
             en: 1H Iron Whip
             ja: １ハンド・アイアン・ウィップ
           note:
             ja: 2回
             en: ''
-        - name:
+        - id: 1a-level9-trick16
+          name:
             en: Hour Glass
             ja: アワー・グラス
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 1a-level9-trick17
+          name:
             en: Grind to Slack Bind
             ja: グラインド・トゥ・スラック・バインド
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 1a-level9-trick18
+          name:
             en: Chopstick
             ja: チョップスティック
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 1a-level9-trick19
+          name:
             en: Rancid Milk
             ja: ランシッド・ミルク
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 1a-level9-trick20
+          name:
             en: Horizontal Eli Hop
             ja: ホリゾンタル・イーライ・ホップ
           note:
             ja: 3回
             en: ''
-        - name:
+        - id: 1a-level9-trick21
+          name:
             en: Influent
             ja: インフルエント
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 1a-level9-trick22
+          name:
             en: Under the Leg Trapeze
             ja: アンダー・ザ・レッグ・トラピーズ
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 1a-level9-trick23
+          name:
             en: Behind the Back Trapeze
             ja: ビハインド・ザ・バック・トラピーズ
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 1a-level9-trick24
+          name:
             en: Laceration Bind
             ja: ラセレーション・バインド
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 1a-level9-trick25
+          name:
             en: Horizontal Gyro Revolution
             ja: ホリゾンタル・ジャイロ・レボリューション
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 1a-level9-trick26
+          name:
             en: Chopstick Rabbit
             ja: チョップスティック・ラビット
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 1a-level9-trick27
+          name:
             en: Sarvant Trapeze
             ja: サラバント・トラビーズ
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 1a-level9-trick28
+          name:
             en: Chopstick Round Trip
             ja: チョップスティック・ラウンド・トリップ
           note:
             ja: ''
             en: ''
-- name: 2A
+- id: 2a
+  name: 2A
   levels:
-    - name: level1
+    - id: 2a-level1
+      name: level1
       tricks:
-        - name:
+        - id: 2a-level1-trick1
+          name:
+            en: Warp Drive
+            ja: ワープ・ドライブ
+          note:
+            ja: ３回
+            en: ''
+        - id: 2a-level1-trick2
+          name:
             en: In/Out Loop (Gemini Loop)
             ja: イン・アウト・ループ（ジェミニ・ループ）
           note:
             ja: １０回
             en: ''
-        - name:
+        - id: 2a-level1-trick3
+          name:
             en: In/Out Hop
             ja: イン・アウト・ホップ
           note:
             ja: １０回
             en: ''
-        - name:
+        - id: 2a-level1-trick4
+          name:
             en: Leg Wrap Twist
             ja: レッグ・ラップ・ツイスト
           note:
             ja: ホップ方向、右から左へ
             en: ''
-        - name:
+        - id: 2a-level1-trick5
+          name:
             en: Neck Wrap Twist (Guilotine)
             ja: ネック・ラップ・ツイスト（ギロチン）
           note:
             ja: ループ方向、右から左へ
             en: ''
-        - name:
+        - id: 2a-level1-trick6
+          name:
             en: Shoulder Wrap Twist
             ja: ショルダー・ラップ・ツイスト
           note:
             ja: ループ方向、両回転
             en: ''
-        - name:
+        - id: 2a-level1-trick7
+          name:
             en: Horizontal Loop
             ja: ホリゾンタル・ループ
           note:
             ja: ５回
             en: ''
-        - name:
+        - id: 2a-level1-trick8
+          name:
             en: Reach for the Moon (Shoot the Moon)
             ja: リーチ・フォー・ザ・ムーン（シュート・ザ・ムーン）
           note:
             ja: 往復で５回
             en: ''
-        - name:
+        - id: 2a-level1-trick9
+          name:
             en: Vertical Punch (Vertical Loop)
             ja: バーティカル・パンチ（バーティカル・ループ）
           note:
             ja: １０回
             en: ''
-    - name: level2
+    - id: 2a-level2
+      name: level2
       tricks:
-        - name:
+        - id: 2a-level2-trick1
+          name:
+            en: Breast Loop
+            ja: ブレスト・ループ
+          note:
+            ja: ５回
+            en: ''
+        - id: 2a-level2-trick2
+          name:
             en: Behind the Back Loop
             ja: ビハインド・ザ・バック・ループ
           note:
             ja: １０回
             en: ''
-        - name:
+        - id: 2a-level2-trick3
+          name:
             en: Loop Arm Wrap
             ja: ループ・アーム・ラップ
           note:
             ja: ３回、交差側
             en: ''
-        - name:
+        - id: 2a-level2-trick4
+          name:
             en: Hop Arm Wrap
             ja: ホップ・アーム・ラップ
           note:
             ja: ３回、交差側
             en: ''
-        - name:
+        - id: 2a-level2-trick5
+          name:
             en: Loop Pull-over Arm-wrap
             ja: ループ・プルオーバー・アーム・ラップ
           note:
             ja: ３回
             en: ''
-        - name:
+        - id: 2a-level2-trick6
+          name:
             en: Hop Pull-over Arm-wrap
             ja: ホップ・プルオーバー・アーム・ラップ
           note:
             ja: ３回
             en: ''
-        - name:
+        - id: 2a-level2-trick7
+          name:
             en: Fountain
             ja: ファウンテン
           note:
             ja: 上げ下げ　５－５－５
             en: ''
-        - name:
+        - id: 2a-level2-trick8
+          name:
             en: 'Staircase (Screw, Variable Slicer)'
             ja: スティアケース（スクリュー、バリアブル・スライサー）
           note:
             ja: 両側　５－５－５－５
             en: ''
-        - name:
+        - id: 2a-level2-trick9
+          name:
             en: Clione
             ja: クリオネ
           note:
             ja: 両側　５－５－５－５
             en: ''
-    - name: level3
+    - id: 2a-level3
+      name: level3
       tricks:
-        - name:
+        - id: 2a-level3-trick1
+          name:
+            en: Single Wrap
+            ja: シングル・ラップ
+          note:
+            ja: ''
+            en: ''
+        - id: 2a-level3-trick2
+          name:
             en: Pullover Wrap
             ja: プルオーバー・ラップ
           note:
             ja: ''
             en: ''
-    - name: level4
+    - id: 2a-level4
+      name: level4
       tricks:
-        - name:
+        - id: 2a-level4-trick1
+          name:
+            en: 2H Around the World
+            ja: アラウンド・ザ・ワールド
+          note:
+            ja: ３回
+            en: ''
+        - id: 2a-level4-trick2
+          name:
             en: Wrist-cross Around the World
             ja: リストクロス・アラウンド・ザ・ワールド
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 2a-level4-trick3
+          name:
             en: 2H Inside Loop (Double Loop)
             ja: インサイド・ループ（ダブル・ループ）
           note:
             ja: １０回
             en: ''
-        - name:
+        - id: 2a-level4-trick4
+          name:
             en: Yamada Wrap
             ja: ヤマダ・ラップ
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 2a-level4-trick5
+          name:
             en: Sword and Shield
             ja: ソード・アンド・シールド
           note:
             ja: ３回
             en: ''
-        - name:
+        - id: 2a-level4-trick6
+          name:
             en: Shoulder Wrap Twist
             ja: ショルダー・ラップ・ツイスト
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 2a-level4-trick7
+          name:
             en: 2H Hop the Fence
             ja: ホップ・ザ・フェンス（ミルク・ザ・カウ）
           note:
             ja: １０回
             en: ''
-        - name:
+        - id: 2a-level4-trick8
+          name:
             en: Sleep Arm-wrap
             ja: スリープ・アーム・ラップ
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 2a-level4-trick9
+          name:
             en: Pinwheel
             ja: ピンホイール
           note:
             ja: ５回
             en: ''
-    - name: level5
+    - id: 2a-level5
+      name: level5
       tricks:
-        - name:
+        - id: 2a-level5-trick1
+          name:
+            en: Loop-Cross Inside Loop
+            ja: ループクロス・インサイド・ループ
+          note:
+            ja: １０回
+            en: ''
+        - id: 2a-level5-trick2
+          name:
             en: Inside Loop / Hop
             ja: インサイド・ループ／ホップ・ザ・フェンス
           note:
             ja: １０回
             en: ''
-        - name:
+        - id: 2a-level5-trick3
+          name:
             en: 2H Outside Loop
             ja: アウトサイド・ループ
           note:
             ja: １０回
             en: ''
-        - name:
+        - id: 2a-level5-trick4
+          name:
             en: Warp Drive Time Warp
             ja: ワープ・ドライブ・タイム・ワープ
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 2a-level5-trick5
+          name:
             en: Lay on the Back Inside Loop
             ja: レイ・オン・ザ・バック・インサイド・ループ
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 2a-level5-trick6
+          name:
             en: Inside Loop/ Moon
             ja: インサイド・ループ／リーチ・フォー・ザ・ムーン
           note:
             ja: １０回
             en: ''
-        - name:
+        - id: 2a-level5-trick7
+          name:
             en: Windshield Wiper
             ja: ウインドシールド・ワイパー
           note:
             ja: ３往復
             en: ''
-        - name:
+        - id: 2a-level5-trick8
+          name:
             en: 2H Planet Hop
             ja: プラネット・ホップ
           note:
             ja: １０回
             en: ''
-        - name:
+        - id: 2a-level5-trick9
+          name:
             en: 2H Punching Bag
             ja: パンチング・バッグ
           note:
             ja: １０回
             en: ''
-    - name: level6
+    - id: 2a-level6
+      name: level6
       tricks:
-        - name:
+        - id: 2a-level6-trick1
+          name:
+            en: 2H Breast Loop
+            ja: ブレスト・ループ
+          note:
+            ja: １０回
+            en: ''
+        - id: 2a-level6-trick2
+          name:
             en: 2H Horizontal Loop
             ja: ホリゾンタル・ループ
           note:
             ja: １０回
             en: ''
-        - name:
+        - id: 2a-level6-trick3
+          name:
             en: Wrist Cross Tangler
             ja: リストクロス・タングラー
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 2a-level6-trick4
+          name:
             en: In/out Tangler
             ja: イン・アウト・タングラー
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 2a-level6-trick5
+          name:
             en: 2H Vertical Punch
             ja: バーティカル・パンチ
           note:
             ja: １０回
             en: ''
-        - name:
+        - id: 2a-level6-trick6
+          name:
             en: 2H Inside Outside Loop
             ja: イン・アウト・ループ
           note:
             ja: １０回
             en: ''
-        - name:
+        - id: 2a-level6-trick7
+          name:
             en: Wrist-Cross Inside Loop
             ja: リストクロス・インサイド・ループ
           note:
             ja: １０回
             en: ''
-        - name:
+        - id: 2a-level6-trick8
+          name:
             en: Double-Cross Inside Loop
             ja: ダブルクロス・インサイド・ループ
           note:
             ja: １０回
             en: ''
-        - name:
+        - id: 2a-level6-trick9
+          name:
             en: Under The Leg Loop
             ja: インサイド・ループ / アンダー・ザ・レッグ・ループ
           note:
             ja: ''
             en: ''
-    - name: level7
+    - id: 2a-level7
+      name: level7
       tricks:
-        - name:
+        - id: 2a-level7-trick1
+          name:
+            en: Reach for the Moon Stall
+            ja: リーチ・フォー・ザ・ムーン・ストール
+          note:
+            ja: ３回
+            en: ''
+        - id: 2a-level7-trick2
+          name:
             en: Tangler / Wrist-cross / Tangler
             ja: タングラー～リストクロス～タングラー
           note:
             ja: １０回
             en: ''
-        - name:
+        - id: 2a-level7-trick3
+          name:
             en: Love Machine
             ja: ラブ・マシーン
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 2a-level7-trick4
+          name:
             en: 2H Inside Outside Hop
             ja: イン・アウト・ホップ
           note:
             ja: １０回
             en: ''
-        - name:
+        - id: 2a-level7-trick5
+          name:
             en: In/Out Vertical Punch
             ja: イン・アウト・バーティカル・パンチ
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 2a-level7-trick6
+          name:
             en: 2H Reach for the Moon
             ja: リーチ・フォー・ザ・ムーン
           note:
             ja: １０回
             en: ''
-        - name:
+        - id: 2a-level7-trick7
+          name:
             en: Staircase
             ja: スティアケース
           note:
             ja: 両側　５－５－５－５
             en: ''
-        - name:
+        - id: 2a-level7-trick8
+          name:
             en: Fountain
             ja: ファウンテン
           note:
             ja: 上げ下げ　５－５－５
             en: ''
-        - name:
+        - id: 2a-level7-trick9
+          name:
             en: Clione
             ja: クリオネ
           note:
             ja: ５－５回
             en: ''
-    - name: level8
+    - id: 2a-level8
+      name: level8
       tricks:
-        - name:
+        - id: 2a-level8-trick1
+          name:
+            en: Loop Arm Wrap
+            ja: ループ・アーム・ラップ
+          note:
+            ja: ３回
+            en: ''
+        - id: 2a-level8-trick2
+          name:
             en: Hop Arm Wrap
             ja: ホップ・アーム・ラップ
           note:
             ja: ３回
             en: ''
-        - name:
+        - id: 2a-level8-trick3
+          name:
             en: Hop Pull-over Arm Wrap
             ja: ホップ・プルオーバー・アーム・ラップ
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 2a-level8-trick4
+          name:
             en: Loop Pull-over Arm Wrap
             ja: ループ・プルオーバー・アーム・ラップ
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 2a-level8-trick5
+          name:
             en: Love Machine Combo
             ja: ラブ・マシーン・コンボ
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 2a-level8-trick6
+          name:
             en: Vert-WD-CrossV-WD-Vert
             ja: バーティカル・パンチ・トランジション
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 2a-level8-trick7
+          name:
             en: Cricket
             ja: クリケット
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 2a-level8-trick8
+          name:
             en: ''
             ja: ループ・ウーキー・スリープほどき
           note:
             ja: 解説
             en: ''
-        - name:
+        - id: 2a-level8-trick9
+          name:
             en: Kurukuru Loop
             ja: クルクル・ループ
           note:
             ja: ５回
             en: ''
-    - name: level9
+    - id: 2a-level9
+      name: level9
       tricks:
-        - name:
+        - id: 2a-level9-trick1
+          name:
+            en: Roll-Cross Loop
+            ja: ロールクロス・ループ
+          note:
+            ja: ''
+            en: ''
+        - id: 2a-level9-trick2
+          name:
             en: ''
             ja: ウーキー（つまみ）内外
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 2a-level9-trick3
+          name:
             en: Loop Wrap (Ladder Ver.)
             ja: ループ・ラップ
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 2a-level9-trick4
+          name:
             en: ''
             ja: ホップ・アームラップ・ツイスト・アンツイスト
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 2a-level9-trick5
+          name:
             en: Pull-over Combo (Koji Ver.)
             ja: プルオーバー・コンボ （コウジ・バージョン）
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 2a-level9-trick6
+          name:
             en: LPOAW Tangler Transition
             ja: LPOAW・タングラー・トランジション
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 2a-level9-trick7
+          name:
             en: Kansai Wookiee
             ja: カンサイ・ウーキー
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 2a-level9-trick8
+          name:
             en: ''
             ja: ２ハンド・ループ・ウーキー
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 2a-level9-trick9
+          name:
             en: ''
             ja: ２ハンド・ループ・ラップ・内外
           note:
             ja: ''
             en: ''
-    - name: level10
+    - id: 2a-level10
+      name: level10
       tricks:
-        - name:
+        - id: 2a-level10-trick1
+          name:
+            en: ''
+            ja: ウーキー～ラブマシーン
+          note:
+            ja: ''
+            en: ''
+        - id: 2a-level10-trick2
+          name:
             en: ''
             ja: ホップ・プルオーバー・アーム・ラップ・イン・アウト
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 2a-level10-trick3
+          name:
             en: ''
             ja: カンサイ・ウーキー・ループ・バージョン
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 2a-level10-trick4
+          name:
             en: ''
             ja: ホップ・アームラップ・アウト（コウジバージョン）
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 2a-level10-trick5
+          name:
             en: ''
             ja: ウーキー・ファウンテン
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 2a-level10-trick6
+          name:
             en: One Side Clione
             ja: ワンサイド・クリオネ
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 2a-level10-trick7
+          name:
             en: Wrist Cross Fountain
             ja: リストクロス・ファウンテン
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 2a-level10-trick8
+          name:
             en: Wrist Cross Staircase
             ja: リストクロス・スティアケース
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 2a-level10-trick9
+          name:
             en: Reverse Clione
             ja: リバース・クリオネ
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 2a-level10-trick10
+          name:
             en: Reverse Staircase
             ja: リバース・スティアケース
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 2a-level10-trick11
+          name:
             en: ''
             ja: ２ハンドホップ・アームラップ・内外
           note:
             ja: ''
             en: ''
-    - name: level11
-      tricks: []
-- name: 3A
-  levels:
-    - name: level1
+    - id: 2a-level11
+      name: level11
       tricks:
-        - name:
+        - id: 2a-level11-trick1
+          name:
+            en: Reverse Yamada Wrap
+            ja: リバース・ヤマダ・ラップ
+          note:
+            ja: ''
+            en: ''
+- id: 3a
+  name: 3A
+  levels:
+    - id: 3a-level1
+      name: level1
+      tricks:
+        - id: 3a-level1-trick1
+          name:
+            en: Gun Slinger
+            ja: ガン・スリンガー
+          note:
+            ja: 前方、後方それぞれ3回以上
+            en: ''
+        - id: 3a-level1-trick2
+          name:
             en: 2H Plastic Whip
             ja: ２ハンド・プラスチック・ウィップ
           note:
             ja: 同時に
             en: ''
-        - name:
+        - id: 3a-level1-trick3
+          name:
             en: Half Assisted 1.5Trapeze
             ja: ハーフ・アシステッド・１．５トラピーズ
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 3a-level1-trick4
+          name:
             en: Assisted Brain Twister
             ja: アシステッド・ブレイン・ツイスター
           note:
             ja: 1回以上 / ボトム・マウントは不可
             en: ''
-        - name:
+        - id: 3a-level1-trick5
+          name:
             en: Divide Slack
             ja: ディバイド・スラック
           note:
             ja: 同時に
             en: ''
-        - name:
+        - id: 3a-level1-trick6
+          name:
             en: |
               Kinky Mount
             ja: キンキー・マウント
           note:
             ja: マウント後クロスさせてほどく / 別手順
             en: ''
-        - name:
+        - id: 3a-level1-trick7
+          name:
             en: Blueline Rolls
             ja: ブルーライン・ロール
           note:
             ja: 3回以上 / 左右両方で1回とカウント
             en: ''
-        - name:
+        - id: 3a-level1-trick8
+          name:
             en: Velvet Rolls
             ja: ベルベット・ロール
           note:
             ja: 3回以上 / 左右両方で1回とカウント
             en: ''
-        - name:
+        - id: 3a-level1-trick9
+          name:
             en: Assisted Trapeze
             ja: アシステッド・トラピーズ
           note:
             ja: 左手は動かさない / はずし方自由 / 失敗例
             en: ''
-- name: 4A
+- id: 4a
+  name: 4A
   levels:
-    - name: level1
+    - id: 4a-level1
+      name: level1
       tricks:
-        - name:
+        - id: 4a-level1-trick1
+          name:
+            en: Forward Pass Release
+            ja: フォワード・パス・リリース
+          note:
+            ja: 投げあげた後、手でキャッチ
+            en: ''
+        - id: 4a-level1-trick2
+          name:
             en: Forward Pass Mount
             ja: フォワード・パス・マウント
           note:
             ja: ストリングにのせる（巻き上げ不要）
             en: ''
-        - name:
+        - id: 4a-level1-trick3
+          name:
             en: Forward Pass Mount & Keep
             ja: フォワード・パス・マウント＆スリープ
           note:
             ja: のせた後１０秒以上スリープ、巻き上げ不要
             en: ''
-        - name:
+        - id: 4a-level1-trick4
+          name:
             en: Forward Pass Mount & Wind
             ja: フォワード・パス・マウント＆ワインド
           note:
             ja: のせた後、巻き上げる
             en: ''
-        - name:
+        - id: 4a-level1-trick5
+          name:
             en: 'Forward Pass Mount, Keep & Wind'
             ja: フォワード・パス・マウント＆スリープ＆ワインド
           note:
             ja: のせた後１０秒以上スリープして巻き上げる
             en: ''
-        - name:
+        - id: 4a-level1-trick6
+          name:
             en: Magic Wind
             ja: マジック・ワインド
           note:
             ja: 片手でふって、はなす
             en: ''
-        - name:
+        - id: 4a-level1-trick7
+          name:
             en: OS Barrel Roll
             ja: ＯＳバレル・ロール
           note:
             ja: 手前方向に３回以上
             en: ''
-        - name:
+        - id: 4a-level1-trick8
+          name:
             en: OS Elevator
             ja: ＯＳエレベーター
           note:
             ja: 下から上まで（内側で行う）
             en: ''
-        - name:
+        - id: 4a-level1-trick9
+          name:
             en: Swing
             ja: スイング
           note:
             ja: ２往復以上（高さは腰より上）
             en: ''
-    - name: level2
+    - id: 4a-level2
+      name: level2
       tricks:
-        - name:
+        - id: 4a-level2-trick1
+          name:
+            en: Railing Trapeze
+            ja: レイリング・トラピーズ
+          note:
+            ja: １往復（両側１回ずつ）
+            en: ''
+        - id: 4a-level2-trick2
+          name:
             en: Ripple
             ja: リップル
           note:
             ja: ２往復
             en: ''
-        - name:
+        - id: 4a-level2-trick3
+          name:
             en: The Sun
             ja: ザ・サン
           note:
             ja: 1周、反時計回り
             en: ''
-        - name:
+        - id: 4a-level2-trick4
+          name:
             en: Rabbit
             ja: ラビット
           note:
             ja: ５秒以上
             en: ''
-        - name:
+        - id: 4a-level2-trick5
+          name:
             en: OS Creeper
             ja: ＯＳクリーパー
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 4a-level2-trick6
+          name:
             en: Swing Wheel
             ja: スイング・ホイール
           note:
             ja: ２往復
             en: ''
-        - name:
+        - id: 4a-level2-trick7
+          name:
             en: String Release
             ja: ストリング・リリース
           note:
             ja: ２回
             en: ''
-        - name:
+        - id: 4a-level2-trick8
+          name:
             en: OS Winder
             ja: ＯＳワインダー
           note:
             ja: 最後まで巻き上げる
             en: ''
-        - name:
+        - id: 4a-level2-trick9
+          name:
             en: OS Dizzy Baby
             ja: ＯＳディジー・ベイビー
           note:
             ja: ３往復、３回転
             en: ''
-    - name: level3
+    - id: 4a-level3
+      name: level3
       tricks:
-        - name:
+        - id: 4a-level3-trick1
+          name:
+            en: OS Barrel Roll 2
+            ja: ＯＳバレル・ロール２
+          note:
+            ja: 前方２回、後方２回
+            en: ''
+        - id: 4a-level3-trick2
+          name:
             en: Inside Somersault
             ja: インサイド・サマーソルト
           note:
             ja: ホップ方向３回、ループ方向３回（順番不問）
             en: ''
-        - name:
+        - id: 4a-level3-trick3
+          name:
             en: Terry’s Toss
             ja: テリー・トス
           note:
             ja: ２回
             en: ''
-        - name:
+        - id: 4a-level3-trick4
+          name:
             en: Rolling Star
             ja: ローリング・スター
           note:
             ja: ５秒以上
             en: ''
-        - name:
+        - id: 4a-level3-trick5
+          name:
             en: Brain Twister Mount
             ja: ブレイン・ツイスター・マウント
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 4a-level3-trick6
+          name:
             en: Over Chicken Whip
             ja: オーバー・チキン・ウィップ
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 4a-level3-trick7
+          name:
             en: OS Roller Coaster
             ja: ＯＳローラー・コースター
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 4a-level3-trick8
+          name:
             en: Trampoline
             ja: トランポリン
           note:
             ja: ２往復以上（止めずに行う）
             en: ''
-        - name:
+        - id: 4a-level3-trick9
+          name:
             en: Engine
             ja: エンジン
           note:
             ja: ５回以上
             en: ''
-    - name: level4
+    - id: 4a-level4
+      name: level4
       tricks:
-        - name:
+        - id: 4a-level4-trick1
+          name:
+            en: Jet Coaster
+            ja: ジェット・コースター
+          note:
+            ja: ３周以上
+            en: ''
+        - id: 4a-level4-trick2
+          name:
             en: Back Burner
             ja: バック・バーナー
           note:
             ja: ２回以上
             en: ''
-        - name:
+        - id: 4a-level4-trick3
+          name:
             en: Magic Toss
             ja: マジック・トス
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 4a-level4-trick4
+          name:
             en: Jump Rope
             ja: ジャンプ・ロープ
           note:
             ja: ３回以上
             en: ''
-        - name:
+        - id: 4a-level4-trick5
+          name:
             en: Under Whip
             ja: アンダー・ウィップ
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 4a-level4-trick6
+          name:
             en: Behind Back Catch
             ja: ビハインド・バック・キャッチ
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 4a-level4-trick7
+          name:
             en: Recapture
             ja: リキャプチャー
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 4a-level4-trick8
+          name:
             en: Orbit the Leg
             ja: オービット・ザ・レッグ
           note:
             ja: ３周以上
             en: ''
-        - name:
+        - id: 4a-level4-trick9
+          name:
             en: Around the Arm
             ja: アラウンド・ジ・アーム
           note:
             ja: ３周以上
             en: ''
-    - name: level5
+    - id: 4a-level5
+      name: level5
       tricks:
-        - name:
+        - id: 4a-level5-trick1
+          name:
+            en: Over Whip
+            ja: オーバー・ウィップ
+          note:
+            ja: １回
+            en: ''
+        - id: 4a-level5-trick2
+          name:
             en: Vertical Boingy Boingy
             ja: バーティカル・ボヨン・ボヨン
           note:
             ja: ５往復以上
             en: ''
-        - name:
+        - id: 4a-level5-trick3
+          name:
             en: Infinite Star
             ja: イニフィニット・スター
           note:
             ja: ２往復以上
             en: ''
-        - name:
+        - id: 4a-level5-trick4
+          name:
             en: Catch Turn
             ja: キャッチ・ターン
           note:
             ja: １周（２回）以上
             en: ''
-        - name:
+        - id: 4a-level5-trick5
+          name:
             en: OS Poppin Fresh
             ja: ＯＳポッピン・フレッシュ
           note:
             ja: ２往復以上
             en: ''
-        - name:
+        - id: 4a-level5-trick6
+          name:
             en: Barrel Boingy Boingy
             ja: バレル・ボヨン・ボヨン
           note:
             ja: ３回以上
             en: ''
-        - name:
+        - id: 4a-level5-trick7
+          name:
             en: Reverse Barrel Boingy Boingy
             ja: リバース・バレル・ボヨン・ボヨン
           note:
             ja: ３回以上
             en: ''
-        - name:
+        - id: 4a-level5-trick8
+          name:
             en: Moon Regeneration
             ja: ムーン・リジェネレーション
           note:
             ja: リジェネ表裏で１セット
             en: ''
-        - name:
+        - id: 4a-level5-trick9
+          name:
             en: Toss & Reverse Catch
             ja: トス＆リバース・キャッチ
           note:
             ja: ３回以上
             en: ''
-    - name: level6
+    - id: 4a-level6
+      name: level6
       tricks:
-        - name:
+        - id: 4a-level6-trick1
+          name:
+            en: Ring Minority Report
+            ja: リング・マイノリティ・リポート
+          note:
+            ja: （マイノリティ・リポート）
+            en: ''
+        - id: 4a-level6-trick2
+          name:
             en: Under Line Whip
             ja: アンダー・ライン・ウィップ
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 4a-level6-trick3
+          name:
             en: Sen Poppin
             ja: セン・ポッピン
           note:
             ja: ２往復以上
             en: ''
-        - name:
+        - id: 4a-level6-trick4
+          name:
             en: Volcano
             ja: ボルケーノ
           note:
             ja: ５回以上
             en: ''
-        - name:
+        - id: 4a-level6-trick5
+          name:
             en: Over Line Whip
             ja: オーバー・ライン・ウィップ
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 4a-level6-trick6
+          name:
             en: Line Minority
             ja: ライン・マイノリティ
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 4a-level6-trick7
+          name:
             en: OS Tamhawk Special
             ja: ＯＳタムホーク・スペシャル
           note:
             ja: ３回以上
             en: ''
-        - name:
+        - id: 4a-level6-trick8
+          name:
             en: Horizontal Boingy Boingy
             ja: ホリゾンタル・ボヨン・ボヨン
           note:
             ja: ５往復以上
             en: ''
-        - name:
+        - id: 4a-level6-trick9
+          name:
             en: Slack Recapture
             ja: スラック・リキャプチャー（リバース・フック）
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 4a-level6-trick10
+          name:
             en: OS Hook
             ja: ＯＳフック
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 4a-level6-trick11
+          name:
             en: Reverse Hook
             ja: リバース・フック（スラック・リキャプチャー）
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 4a-level6-trick12
+          name:
             en: Grind And Whip
             ja: グラインド＆ウィップ
           note:
             ja: １回（オーバーのみ）
             en: ''
-        - name:
+        - id: 4a-level6-trick13
+          name:
             en: Alpha Barrel Roll
             ja: アルファ・バレル・ロール
           note:
             ja: ３回以上
             en: ''
-        - name:
+        - id: 4a-level6-trick14
+          name:
             en: Quick Ring
             ja: クイック・リング
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 4a-level6-trick15
+          name:
             en: OS Green Triangle
             ja: ＯＳグリーン・トライアングル
           note:
             ja: スーサイドで入る
             en: ''
-        - name:
+        - id: 4a-level6-trick16
+          name:
             en: Clapping Volcano
             ja: クラッピング・ボルケーノ
           note:
             ja: ５回以上
             en: ''
-        - name:
+        - id: 4a-level6-trick17
+          name:
             en: Rising Boingy Boingy
             ja: ライジング・ボヨン・ボヨン
           note:
             ja: ５回～５回以上
             en: ''
-        - name:
+        - id: 4a-level6-trick18
+          name:
             en: In Out Sen Poppin
             ja: イン・アウト・セン・ポッピン
           note:
             ja: ２往復以上
             en: ''
-        - name:
+        - id: 4a-level6-trick19
+          name:
             en: Back Burner Recapture
             ja: バック・バーナー・リキャプチャー
           note:
             ja: ２回以上
             en: ''
-        - name:
+        - id: 4a-level6-trick20
+          name:
             en: Loop Regen
             ja: ループ・リジェネレーション
           note:
             ja: ２回以上
             en: ''
-        - name:
+        - id: 4a-level6-trick21
+          name:
             en: Hop to BT Mount
             ja: ホップからＢＴマウント
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 4a-level6-trick22
+          name:
             en: Vertical Punch to Moon Mount
             ja: バーティカルからBTマウント
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 4a-level6-trick23
+          name:
             en: One-hand Around the Arm
             ja: ワンハンド・アラウンド・ジ・アーム
           note:
             ja: ３回以上
             en: ''
-        - name:
+        - id: 4a-level6-trick24
+          name:
             en: Reverse Around the Arm
             ja: リバース・アラウンド・ジ・アーム
           note:
             ja: ３周以上
             en: ''
-        - name:
+        - id: 4a-level6-trick25
+          name:
             en: Open Whip
             ja: オープン・ウィップ
           note:
             ja: （一本ラッソー）
             en: ''
-        - name:
+        - id: 4a-level6-trick26
+          name:
             en: Open Catch
             ja: オープン・キャッチ
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 4a-level6-trick27
+          name:
             en: Rolling Boingy Boingy
             ja: ローリング・ボヨン・ボヨン
           note:
             ja: ３回～３回以上
             en: ''
-        - name:
+        - id: 4a-level6-trick28
+          name:
             en: OS Ping Pong
             ja: ＯＳピンポン
           note:
             ja: ２往復以上
             en: ''
-        - name:
+        - id: 4a-level6-trick29
+          name:
             en: Front Arm mount
             ja: フロント・アーム・マウント
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 4a-level6-trick30
+          name:
             en: Back Arm Mount
             ja: バック・アーム・マウント
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 4a-level6-trick31
+          name:
             en: Recapture Repeat
             ja: リキャプチャー・リピート
           note:
             ja: ３回以上
             en: ''
-        - name:
+        - id: 4a-level6-trick32
+          name:
             en: Ring Recapture Repeat
             ja: リング・リキャプチャー・リピート
           note:
             ja: ３回以上
             en: ''
-        - name:
+        - id: 4a-level6-trick33
+          name:
             en: OS Seasick
             ja: ＯＳシーシック
           note:
             ja: ３回以上
             en: ''
-        - name:
+        - id: 4a-level6-trick34
+          name:
             en: Out Out Sen Poppin
             ja: アウト・アウト・セン・ポッピン
           note:
             ja: ２往復以上
             en: ''
-        - name:
+        - id: 4a-level6-trick35
+          name:
             en: Open Whip Minority
             ja: オープン・ウィップ・マイノリティ
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 4a-level6-trick36
+          name:
             en: Reverse Vertical Boingy Boingy
             ja: リバース・ヴァーティカル・ボヨン・ボヨン
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 4a-level6-trick37
+          name:
             en: Eiji Regeneration
             ja: エイジ・リジェネレーション
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 4a-level6-trick38
+          name:
             en: Reverse Horizontal Boingy Boingy
             ja: リバース・ホリゾンタル・ボヨン・ボヨン
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 4a-level6-trick39
+          name:
             en: Around the Body
             ja: アラウンド・ザ・ボディ
           note:
             ja: ３回以上
             en: ''
-        - name:
+        - id: 4a-level6-trick40
+          name:
             en: FPR to Open Whip
             ja: リリースからオープン・ウィップ
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 4a-level6-trick41
+          name:
             en: FPR to Open Catch
             ja: リリースからオープン・キャッチ
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 4a-level6-trick42
+          name:
             en: Throwhand Back Forth Recapture
             ja: スローハンド・バック・フォース・リキャプチャー
           note:
             ja: ２往復以上
             en: ''
-        - name:
+        - id: 4a-level6-trick43
+          name:
             en: Bothhand Switch Recapture
             ja: ボースハンド・スイッチ・リキャプチャー
           note:
             ja: ２往復以上
             en: ''
-        - name:
+        - id: 4a-level6-trick44
+          name:
             en: Recapture Turn
             ja: リキャプチャー・ターン
           note:
             ja: １周（３回）以上
             en: ''
-        - name:
+        - id: 4a-level6-trick45
+          name:
             en: Behind Catch Turn
             ja: ビハインド・キャッチ・ターン
           note:
             ja: １周（３回）以上
             en: ''
-        - name:
+        - id: 4a-level6-trick46
+          name:
             en: Reverse Recapture Turn
             ja: リバース・リキャプチャー・ターン
           note:
             ja: １周（３回）以上
             en: ''
-        - name:
+        - id: 4a-level6-trick47
+          name:
             en: Throwhand Back Forth Ring Recapture
             ja: スローハンド・バック・フォース・リング・リキャプチャー
           note:
             ja: ２往復以上
             en: ''
-        - name:
+        - id: 4a-level6-trick48
+          name:
             en: Bothhand Catch Ring Recapture
             ja: ボースハンド・スイッチ・リング・リキャプチャー
           note:
             ja: ２往復以上
             en: ''
-        - name:
+        - id: 4a-level6-trick49
+          name:
             en: Under the Leg Throwhand Back Forth Recapture
             ja: アンダー・ザ・レッグ・スローハンド・バック・フォース・リキャプチャー
           note:
             ja: ２往復以上
             en: ''
-        - name:
+        - id: 4a-level6-trick50
+          name:
             en: Behind Recapture Turn
             ja: ビハインド・リキャプチャー・ターン
           note:
             ja: １周（３回）以上
             en: ''
-        - name:
+        - id: 4a-level6-trick51
+          name:
             en: Behind Reverse Recapture Turn
             ja: ビハインド・リバース・リキャプチャー・ターン
           note:
             ja: １周（３回）以上
             en: ''
-        - name:
+        - id: 4a-level6-trick52
+          name:
             en: Around the Body Recapture
             ja: アラウンド・ザ・ボディ・リキャプチャー
           note:
             ja: ３回以上
             en: ''
-- name: 5a
+- id: 5a
+  name: 5A
   levels:
-    - name: level1
-      tricks: []
-    - name: level2
+    - id: 5a-level1
+      name: level1
       tricks:
-        - name:
+        - id: 5a-level1-trick1
+          name:
+            en: Trapeze Switch
+            ja: トラピーズ・スイッチ
+          note:
+            ja: "\_１往復以上（マウント合計３回以上）"
+            en: ''
+    - id: 5a-level2
+      name: level2
+      tricks:
+        - id: 5a-level2-trick1
+          name:
+            en: Weight Swing Double Trapeze
+            ja: ウエイト・スイング・ダブル・トラピーズ
+          note:
+            ja: ''
+            en: ''
+        - id: 5a-level2-trick2
+          name:
             en: Slide Switch
             ja: スライド・スイッチ
           note:
             ja: 2往復以上
             en: ''
-        - name:
+        - id: 5a-level2-trick3
+          name:
             en: Brain Twister 360
             ja: ブレイン・ツイスター・360
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 5a-level2-trick4
+          name:
             en: Lock Weight Around
             ja: ロック・ウエイト・アラウンド
           note:
             ja: 2周以上
             en: ''
-        - name:
+        - id: 5a-level2-trick5
+          name:
             en: Windmill
             ja: ウィンドミル
           note:
             ja: 3回以上 / トラピーズ不要
             en: ''
-        - name:
+        - id: 5a-level2-trick6
+          name:
             en: |
               Nunchaku
             ja: ヌンチャク
           note:
             ja: もどし方自由
             en: ''
-        - name:
+        - id: 5a-level2-trick7
+          name:
             en: Easy Meltdown
             ja: イージー・メルトダウン
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 5a-level2-trick8
+          name:
             en: Boomerang Switch
             ja: ブーメラン・スイッチ
           note:
             ja: 2往復以上（4マウント以上）
             en: ''
-        - name:
+        - id: 5a-level2-trick9
+          name:
             en: |
               Rabbit Somersault
             ja: ラビット・サマーソルト
           note:
             ja: ''
             en: ''
-    - name: level3
+    - id: 5a-level3
+      name: level3
       tricks:
-        - name:
+        - id: 5a-level3-trick1
+          name:
+            en: Windmill
+            ja: ウィンドミル
+          note:
+            ja: ''
+            en: ''
+        - id: 5a-level3-trick2
+          name:
             en: '360'
             ja: スリーシックスティー
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 5a-level3-trick3
+          name:
             en: '720'
             ja: セブントゥエンティー
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 5a-level3-trick4
+          name:
             en: Basic Stall
             ja: ベーシックストール
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 5a-level3-trick5
+          name:
             en: Trapeze and Brother
             ja: トラピーズアンドブラザー
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 5a-level3-trick6
+          name:
             en: Double or Nothing
             ja: ダブルオアナッシング
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 5a-level3-trick7
+          name:
             en: Shoulder Pop
             ja: ショルダーポップ
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 5a-level3-trick8
+          name:
             en: Electric Fan
             ja: エレクトリックファン
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 5a-level3-trick9
+          name:
             en: Split Bottom Mount
             ja: スプリットボトムマウント
           note:
             ja: ''
             en: ''
-    - name: level4
+    - id: 5a-level4
+      name: level4
       tricks:
-        - name:
+        - id: 5a-level4-trick1
+          name:
+            en: 1.5 Mount
+            ja: 1.5マウント
+          note:
+            ja: ''
+            en: ''
+        - id: 5a-level4-trick2
+          name:
             en: Arm Cancel
             ja: アームキャンセル
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 5a-level4-trick3
+          name:
             en: Pendulum
             ja: ペンデュラム
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 5a-level4-trick4
+          name:
             en: Meltdown
             ja: メルトダウン
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 5a-level4-trick5
+          name:
             en: Tangler
             ja: タングラー
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 5a-level4-trick6
+          name:
             en: Bee Sting
             ja: ビースティング
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 5a-level4-trick7
+          name:
             en: Advanced Repeating Stall
             ja: アドバンスドリピーティングストール
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 5a-level4-trick8
+          name:
             en: Dice to Green Triangle
             ja: ダイストゥグリーントライアングル
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 5a-level4-trick9
+          name:
             en: Under The Leg Trapeze
             ja: アンダーザレッグトラピーズ
           note:
             ja: ''
             en: ''
-    - name: level5
+    - id: 5a-level5
+      name: level5
       tricks:
-        - name:
+        - id: 5a-level5-trick1
+          name:
+            en: Grind Meltdown
+            ja: グラインドメルトダウン
+          note:
+            ja: ''
+            en: ''
+        - id: 5a-level5-trick2
+          name:
             en: Inside / Outside Tangler
             ja: インサイド/アウトサイドタングラー
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 5a-level5-trick3
+          name:
             en: Helicopter
             ja: ヘリコプター
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 5a-level5-trick4
+          name:
             en: Behind Back Braintwister
             ja: ビハインドバックブレインツイスター
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 5a-level5-trick5
+          name:
             en: Double or Nothing Stall
             ja: ダブルオアナッシングストール
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 5a-level5-trick6
+          name:
             en: Slapbacks
             ja: スラップバックス
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 5a-level5-trick7
+          name:
             en: Mach 5
             ja: マッハ5
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 5a-level5-trick8
+          name:
             en: 1.5 to Green Triangle
             ja: 1.5トゥグリーントライアングル
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 5a-level5-trick9
+          name:
             en: Wrist Warp
             ja: リストワープ
           note:
             ja: ''
             en: ''
-    - name: level6
+    - id: 5a-level6
+      name: level6
       tricks:
-        - name:
+        - id: 5a-level6-trick1
+          name:
+            en: Spirals
+            ja: スパイラルス
+          note:
+            ja: ''
+            en: ''
+        - id: 5a-level6-trick2
+          name:
             en: Reverse360 Suicide
             ja: リバース360スーサイド
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 5a-level6-trick3
+          name:
             en: Turnstiles
             ja: ターンスタイルス
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 5a-level6-trick4
+          name:
             en: Siren
             ja: サイレン
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 5a-level6-trick5
+          name:
             en: Chaos Tangler
             ja: カオスタングラー
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 5a-level6-trick6
+          name:
             en: Train Surfing
             ja: トレインサーフィン
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 5a-level6-trick7
+          name:
             en: Pride
             ja: プライド
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 5a-level6-trick8
+          name:
             en: Reverse Fountain Tangler
             ja: リバースファウンテンタングラー
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 5a-level6-trick9
+          name:
             en: Kumite
             ja: クミテ
           note:
             ja: ''
             en: ''
-    - name: level7
+    - id: 5a-level7
+      name: level7
       tricks:
-        - name:
+        - id: 5a-level7-trick1
+          name:
+            en: Horizontal Tangler
+            ja: ホリゾンタルタングラー
+          note:
+            ja: ''
+            en: ''
+        - id: 5a-level7-trick2
+          name:
             en: Free Fall Suicide
             ja: フリーフォールスーサイド
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 5a-level7-trick3
+          name:
             en: Ether
             ja: エーテル
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 5a-level7-trick4
+          name:
             en: Horizontal Spirals
             ja: ホリゾンタルスパイラルス
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 5a-level7-trick5
+          name:
             en: Double Slack
             ja: ダブルスラック
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 5a-level7-trick6
+          name:
             en: Clockwork
             ja: クロックワーク
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 5a-level7-trick7
+          name:
             en: Horizontal Turnstiles
             ja: ホリゾンタルターンスタイルス
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 5a-level7-trick8
+          name:
             en: Turnstile Stalls
             ja: ターンスタイルストールス
           note:
             ja: ''
             en: ''
-        - name:
+        - id: 5a-level7-trick9
+          name:
             en: Freegen
             ja: フリージェン
           note:
