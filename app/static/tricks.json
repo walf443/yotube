@@ -1,11 +1,25 @@
 [
   {
+    "id": "1a",
     "name": "1A",
     "levels": [
       {
+        "id": "1a-level1",
         "name": "level1",
         "tricks": [
           {
+            "id": "1a-level1-trick1",
+            "name": {
+              "en": "Double-On Trapeze",
+              "ja": "ダブルオン・トラピーズ（リンディ・ループ、ビル・スペシャル）"
+            },
+            "note": {
+              "ja": "",
+              "en": ""
+            }
+          },
+          {
+            "id": "1a-level1-trick2",
             "name": {
               "en": "Trapeze Repeat",
               "ja": "トラピーズ・リピート"
@@ -16,6 +30,7 @@
             }
           },
           {
+            "id": "1a-level1-trick3",
             "name": {
               "en": "Trapeze Backflip",
               "ja": "トラピーズ・バックフリップ（ムーンサルト・バックフリップ）"
@@ -26,6 +41,7 @@
             }
           },
           {
+            "id": "1a-level1-trick4",
             "name": {
               "en": "Split the Atom (Atom Smasher)",
               "ja": "スプリット・ジ・アトム"
@@ -36,6 +52,7 @@
             }
           },
           {
+            "id": "1a-level1-trick5",
             "name": {
               "en": "Double or Nothing",
               "ja": "ダブル・オア・ナッシング"
@@ -46,6 +63,7 @@
             }
           },
           {
+            "id": "1a-level1-trick6",
             "name": {
               "en": "Barrel Roll (Atomic Bomb)",
               "ja": "バレル・ロール（アトミック・ファイヤー）"
@@ -56,6 +74,7 @@
             }
           },
           {
+            "id": "1a-level1-trick7",
             "name": {
               "en": "String Twist",
               "ja": "ストリング・ツイスト（ヨリなおし）"
@@ -66,6 +85,7 @@
             }
           },
           {
+            "id": "1a-level1-trick8",
             "name": {
               "en": "Roller Coaster (THP)",
               "ja": "ローラー・コースター"
@@ -76,6 +96,7 @@
             }
           },
           {
+            "id": "1a-level1-trick9",
             "name": {
               "en": "1.5 Mount",
               "ja": "１．５マウント（ワン・アンド・ハーフ・マウント）"
@@ -88,9 +109,22 @@
         ]
       },
       {
+        "id": "1a-level2",
         "name": "level2",
         "tricks": [
           {
+            "id": "1a-level2-trick1",
+            "name": {
+              "en": "Laceration",
+              "ja": "ラセレーション"
+            },
+            "note": {
+              "ja": "",
+              "en": ""
+            }
+          },
+          {
+            "id": "1a-level2-trick2",
             "name": {
               "en": "Bermuda Triangle",
               "ja": "バミューダ・トライアングル"
@@ -101,6 +135,7 @@
             }
           },
           {
+            "id": "1a-level2-trick3",
             "name": {
               "en": "Plastic Whip",
               "ja": "プラスチック・ウィップ"
@@ -111,6 +146,7 @@
             }
           },
           {
+            "id": "1a-level2-trick4",
             "name": {
               "en": "Green Triangle",
               "ja": "グリーン・トライアングル"
@@ -121,6 +157,7 @@
             }
           },
           {
+            "id": "1a-level2-trick5",
             "name": {
               "en": "Mach Five",
               "ja": "マッハ・ファイブ"
@@ -131,6 +168,7 @@
             }
           },
           {
+            "id": "1a-level2-trick6",
             "name": {
               "en": "Triple or Nothing",
               "ja": "トリプル・オア・ナッシング"
@@ -141,6 +179,7 @@
             }
           },
           {
+            "id": "1a-level2-trick7",
             "name": {
               "en": "Ripcord",
               "ja": "リップコード"
@@ -151,6 +190,7 @@
             }
           },
           {
+            "id": "1a-level2-trick8",
             "name": {
               "en": "Singapore Sling",
               "ja": "シンガポール・スリング"
@@ -161,6 +201,7 @@
             }
           },
           {
+            "id": "1a-level2-trick9",
             "name": {
               "en": "Tajima Bound",
               "ja": "タジマ・バウンド"
@@ -173,9 +214,22 @@
         ]
       },
       {
+        "id": "1a-level3",
         "name": "level3",
         "tricks": [
           {
+            "id": "1a-level3-trick1",
+            "name": {
+              "en": "Black Hole",
+              "ja": "ブラック・ホール"
+            },
+            "note": {
+              "ja": "ピンホイールを2回ずつ",
+              "en": ""
+            }
+          },
+          {
+            "id": "1a-level3-trick2",
             "name": {
               "en": "Transitional Leg Trapeze",
               "ja": "トランジショナル・レッグ・トラピーズ"
@@ -186,6 +240,7 @@
             }
           },
           {
+            "id": "1a-level3-trick3",
             "name": {
               "en": "Poppin Fresh",
               "ja": "ポッピン・フレッシュ"
@@ -196,6 +251,7 @@
             }
           },
           {
+            "id": "1a-level3-trick4",
             "name": {
               "en": "Chain Reaction",
               "ja": "チェイン・リアクション"
@@ -206,6 +262,7 @@
             }
           },
           {
+            "id": "1a-level3-trick5",
             "name": {
               "en": "Gerbil",
               "ja": "ジャーブル"
@@ -216,6 +273,7 @@
             }
           },
           {
+            "id": "1a-level3-trick6",
             "name": {
               "en": "Shoulder Trapeze",
               "ja": "ショルダー・トラピーズ"
@@ -226,6 +284,7 @@
             }
           },
           {
+            "id": "1a-level3-trick7",
             "name": {
               "en": "1.5 Green Triangle",
               "ja": "1.5グリーン・トライアングル"
@@ -236,6 +295,7 @@
             }
           },
           {
+            "id": "1a-level3-trick8",
             "name": {
               "en": "Matrix",
               "ja": "マトリックス"
@@ -246,6 +306,7 @@
             }
           },
           {
+            "id": "1a-level3-trick9",
             "name": {
               "en": "Quick Hop",
               "ja": "クイックホップ"
@@ -258,9 +319,22 @@
         ]
       },
       {
+        "id": "1a-level4",
         "name": "level4",
         "tricks": [
           {
+            "id": "1a-level4-trick1",
+            "name": {
+              "en": "Eli Hop",
+              "ja": "イーライ・ホップ"
+            },
+            "note": {
+              "ja": "3回、ストリング半分長",
+              "en": ""
+            }
+          },
+          {
+            "id": "1a-level4-trick2",
             "name": {
               "en": "Crossed Arm Trapeze",
               "ja": "クロスアーム・トラピーズ"
@@ -271,6 +345,7 @@
             }
           },
           {
+            "id": "1a-level4-trick3",
             "name": {
               "en": "Revolution",
               "ja": "レボリューション"
@@ -281,6 +356,7 @@
             }
           },
           {
+            "id": "1a-level4-trick4",
             "name": {
               "en": "Houdini Whip",
               "ja": "フーディーニ・ウィップ"
@@ -291,6 +367,7 @@
             }
           },
           {
+            "id": "1a-level4-trick5",
             "name": {
               "en": "Boingy Boingy",
               "ja": "ボヨン・ボヨン"
@@ -301,6 +378,7 @@
             }
           },
           {
+            "id": "1a-level4-trick6",
             "name": {
               "en": "Slack Whip (Jade Whip)",
               "ja": "スラック・ウィップ"
@@ -311,6 +389,7 @@
             }
           },
           {
+            "id": "1a-level4-trick7",
             "name": {
               "en": "Zigzag Rail",
               "ja": "ジグザグ・レール"
@@ -321,6 +400,7 @@
             }
           },
           {
+            "id": "1a-level4-trick8",
             "name": {
               "en": "Ping Pong (from Tower)",
               "ja": "ピンポン"
@@ -331,6 +411,7 @@
             }
           },
           {
+            "id": "1a-level4-trick9",
             "name": {
               "en": "Jason Slack",
               "ja": "ジェイソン・スラック"
@@ -343,9 +424,22 @@
         ]
       },
       {
+        "id": "1a-level5",
         "name": "level5",
         "tricks": [
           {
+            "id": "1a-level5-trick1",
+            "name": {
+              "en": "Slack Trapeze",
+              "ja": "スラック・トラピーズ"
+            },
+            "note": {
+              "ja": "2回",
+              "en": ""
+            }
+          },
+          {
+            "id": "1a-level5-trick2",
             "name": {
               "en": "Kwijibo",
               "ja": "クイジボ"
@@ -356,6 +450,7 @@
             }
           },
           {
+            "id": "1a-level5-trick3",
             "name": {
               "en": "(Hidemasa) Hook",
               "ja": "フック"
@@ -366,6 +461,7 @@
             }
           },
           {
+            "id": "1a-level5-trick4",
             "name": {
               "en": "Candy Rain",
               "ja": "キャンディー・レイン"
@@ -376,6 +472,7 @@
             }
           },
           {
+            "id": "1a-level5-trick5",
             "name": {
               "en": "Yuuki Slack",
               "ja": "ユウキ・スラック"
@@ -386,6 +483,7 @@
             }
           },
           {
+            "id": "1a-level5-trick6",
             "name": {
               "en": "Sarvant Recapture",
               "ja": "サラバント・リキャプチャー"
@@ -396,6 +494,7 @@
             }
           },
           {
+            "id": "1a-level5-trick7",
             "name": {
               "en": "Gyro Turn",
               "ja": "ジャイロ・ターン"
@@ -406,6 +505,7 @@
             }
           },
           {
+            "id": "1a-level5-trick8",
             "name": {
               "en": "Bottom Mount Hop",
               "ja": "ボトム・マウント・ホップ"
@@ -416,6 +516,7 @@
             }
           },
           {
+            "id": "1a-level5-trick9",
             "name": {
               "en": "Candey Rain2",
               "ja": "キャンディー・レイン２"
@@ -428,9 +529,22 @@
         ]
       },
       {
+        "id": "1a-level6",
         "name": "level6",
         "tricks": [
           {
+            "id": "1a-level6-trick1",
+            "name": {
+              "en": "Alt. Eli Hop",
+              "ja": "オルタナティブ・イーライ・ホップ"
+            },
+            "note": {
+              "ja": "2回、ストリング半分長",
+              "en": ""
+            }
+          },
+          {
+            "id": "1a-level6-trick2",
             "name": {
               "en": "Suicide Catch",
               "ja": "スーサイド・キャッチ"
@@ -441,6 +555,7 @@
             }
           },
           {
+            "id": "1a-level6-trick3",
             "name": {
               "en": "Iron Whip",
               "ja": "アイアン・ウィップ"
@@ -451,6 +566,7 @@
             }
           },
           {
+            "id": "1a-level6-trick4",
             "name": {
               "en": "Flick Whip",
               "ja": "フリック・ウィップ"
@@ -461,6 +577,7 @@
             }
           },
           {
+            "id": "1a-level6-trick5",
             "name": {
               "en": "Left Hand Rail / Right Hand Rail",
               "ja": "レフト・ハンド・レール／ライト・ハンド・レール"
@@ -471,6 +588,7 @@
             }
           },
           {
+            "id": "1a-level6-trick6",
             "name": {
               "en": "String Rejection",
               "ja": "ストリング・リジェクション"
@@ -481,6 +599,7 @@
             }
           },
           {
+            "id": "1a-level6-trick7",
             "name": {
               "en": "Flying Green Triangle",
               "ja": "フライング・グリーン・トライアングル"
@@ -491,6 +610,7 @@
             }
           },
           {
+            "id": "1a-level6-trick8",
             "name": {
               "en": "Throwhand Grind",
               "ja": "スローハンド・グラインド"
@@ -501,6 +621,7 @@
             }
           },
           {
+            "id": "1a-level6-trick9",
             "name": {
               "en": "Jason Sling",
               "ja": "ジェイソン・スリング"
@@ -513,9 +634,22 @@
         ]
       },
       {
+        "id": "1a-level7",
         "name": "level7",
         "tricks": [
           {
+            "id": "1a-level7-trick1",
+            "name": {
+              "en": "Reverse Hook",
+              "ja": "リバース・フック"
+            },
+            "note": {
+              "ja": "",
+              "en": ""
+            }
+          },
+          {
+            "id": "1a-level7-trick2",
             "name": {
               "en": "Laceration Green Triangle",
               "ja": "ラセレーション・グリーン・トライアングル"
@@ -526,6 +660,7 @@
             }
           },
           {
+            "id": "1a-level7-trick3",
             "name": {
               "en": "The End",
               "ja": "ジ・エンド"
@@ -536,6 +671,7 @@
             }
           },
           {
+            "id": "1a-level7-trick4",
             "name": {
               "en": "Sarvant",
               "ja": "サラバント"
@@ -546,6 +682,7 @@
             }
           },
           {
+            "id": "1a-level7-trick5",
             "name": {
               "en": "D-Three",
               "ja": "Ｄスリー"
@@ -556,6 +693,7 @@
             }
           },
           {
+            "id": "1a-level7-trick6",
             "name": {
               "en": "Shockwave",
               "ja": "ショックウェーブ"
@@ -566,6 +704,7 @@
             }
           },
           {
+            "id": "1a-level7-trick7",
             "name": {
               "en": "Spirit Bomb",
               "ja": "スピリット・ボム"
@@ -576,6 +715,7 @@
             }
           },
           {
+            "id": "1a-level7-trick8",
             "name": {
               "en": "Grind Through Triangle",
               "ja": "グラインド・スルー・トライアングル"
@@ -586,6 +726,7 @@
             }
           },
           {
+            "id": "1a-level7-trick9",
             "name": {
               "en": "Kamikaze",
               "ja": "カミカゼ"
@@ -598,9 +739,22 @@
         ]
       },
       {
+        "id": "1a-level8",
         "name": "level8",
         "tricks": [
           {
+            "id": "1a-level8-trick1",
+            "name": {
+              "en": "Follow",
+              "ja": "フォロー"
+            },
+            "note": {
+              "ja": "3回以上、最後はスラック・ウィップ",
+              "en": ""
+            }
+          },
+          {
+            "id": "1a-level8-trick2",
             "name": {
               "en": "Black Hop",
               "ja": "ブラック・ホップ"
@@ -611,6 +765,7 @@
             }
           },
           {
+            "id": "1a-level8-trick3",
             "name": {
               "en": "Hook 1.5",
               "ja": "フック１．５"
@@ -621,6 +776,7 @@
             }
           },
           {
+            "id": "1a-level8-trick4",
             "name": {
               "en": "Super Man",
               "ja": "スーパーマン"
@@ -631,6 +787,7 @@
             }
           },
           {
+            "id": "1a-level8-trick5",
             "name": {
               "en": "Protrusion",
               "ja": "プロトリュージョン"
@@ -641,6 +798,7 @@
             }
           },
           {
+            "id": "1a-level8-trick6",
             "name": {
               "en": "Iwasawa Hook",
               "ja": "イワサワ・フック"
@@ -651,6 +809,7 @@
             }
           },
           {
+            "id": "1a-level8-trick7",
             "name": {
               "en": "Circlular Eli Hop",
               "ja": "サーキュラー・イーライ・ホップ"
@@ -661,6 +820,7 @@
             }
           },
           {
+            "id": "1a-level8-trick8",
             "name": {
               "en": "Hook 2.0",
               "ja": "フック２．０"
@@ -671,6 +831,7 @@
             }
           },
           {
+            "id": "1a-level8-trick9",
             "name": {
               "en": "Green Triangle Reverse Suicide",
               "ja": "グリーン・トライアングル・リバース・スーサイド"
@@ -683,9 +844,22 @@
         ]
       },
       {
+        "id": "1a-level9",
         "name": "level9",
         "tricks": [
           {
+            "id": "1a-level9-trick1",
+            "name": {
+              "en": "Zipper",
+              "ja": "ジッパー"
+            },
+            "note": {
+              "ja": "3回",
+              "en": ""
+            }
+          },
+          {
+            "id": "1a-level9-trick2",
             "name": {
               "en": "Cold Fusion",
               "ja": "コールド・フュージョン"
@@ -696,6 +870,7 @@
             }
           },
           {
+            "id": "1a-level9-trick3",
             "name": {
               "en": "Adv. Split the Atom",
               "ja": "アドバンスド・スプリット・ジ・アトム"
@@ -706,6 +881,7 @@
             }
           },
           {
+            "id": "1a-level9-trick4",
             "name": {
               "en": "Buddha Revenge",
               "ja": "ブッダ・リベンジ"
@@ -716,6 +892,7 @@
             }
           },
           {
+            "id": "1a-level9-trick5",
             "name": {
               "en": "Nanda Kanda",
               "ja": "ナンダ・カンダ"
@@ -726,6 +903,7 @@
             }
           },
           {
+            "id": "1a-level9-trick6",
             "name": {
               "en": "Boomerang",
               "ja": "ブーメラン"
@@ -736,6 +914,7 @@
             }
           },
           {
+            "id": "1a-level9-trick7",
             "name": {
               "en": "Cheese Whip Mount",
               "ja": "チーズ・ウィップ・マウント"
@@ -746,6 +925,7 @@
             }
           },
           {
+            "id": "1a-level9-trick8",
             "name": {
               "en": "Crossed Arm BT",
               "ja": "クロスアーム・ブレイン・ツイスター"
@@ -756,6 +936,7 @@
             }
           },
           {
+            "id": "1a-level9-trick9",
             "name": {
               "en": "Three Seven",
               "ja": "スリー・セブン"
@@ -766,6 +947,7 @@
             }
           },
           {
+            "id": "1a-level9-trick10",
             "name": {
               "en": "Gondola",
               "ja": "ゴンドラ"
@@ -776,6 +958,7 @@
             }
           },
           {
+            "id": "1a-level9-trick11",
             "name": {
               "en": "Multiple Gyro Flop",
               "ja": "マルチプル・ジャイロ・フロップ"
@@ -786,6 +969,7 @@
             }
           },
           {
+            "id": "1a-level9-trick12",
             "name": {
               "en": "Mind Bend Suicide",
               "ja": "マインド・ベンド・スーサイド"
@@ -796,6 +980,7 @@
             }
           },
           {
+            "id": "1a-level9-trick13",
             "name": {
               "en": "Suicide 1.5",
               "ja": "スーサイド１．５"
@@ -806,6 +991,7 @@
             }
           },
           {
+            "id": "1a-level9-trick14",
             "name": {
               "en": "White Buddha",
               "ja": "ホワイト・ブッダ"
@@ -816,6 +1002,7 @@
             }
           },
           {
+            "id": "1a-level9-trick15",
             "name": {
               "en": "1H Iron Whip",
               "ja": "１ハンド・アイアン・ウィップ"
@@ -826,6 +1013,7 @@
             }
           },
           {
+            "id": "1a-level9-trick16",
             "name": {
               "en": "Hour Glass",
               "ja": "アワー・グラス"
@@ -836,6 +1024,7 @@
             }
           },
           {
+            "id": "1a-level9-trick17",
             "name": {
               "en": "Grind to Slack Bind",
               "ja": "グラインド・トゥ・スラック・バインド"
@@ -846,6 +1035,7 @@
             }
           },
           {
+            "id": "1a-level9-trick18",
             "name": {
               "en": "Chopstick",
               "ja": "チョップスティック"
@@ -856,6 +1046,7 @@
             }
           },
           {
+            "id": "1a-level9-trick19",
             "name": {
               "en": "Rancid Milk",
               "ja": "ランシッド・ミルク"
@@ -866,6 +1057,7 @@
             }
           },
           {
+            "id": "1a-level9-trick20",
             "name": {
               "en": "Horizontal Eli Hop",
               "ja": "ホリゾンタル・イーライ・ホップ"
@@ -876,6 +1068,7 @@
             }
           },
           {
+            "id": "1a-level9-trick21",
             "name": {
               "en": "Influent",
               "ja": "インフルエント"
@@ -886,6 +1079,7 @@
             }
           },
           {
+            "id": "1a-level9-trick22",
             "name": {
               "en": "Under the Leg Trapeze",
               "ja": "アンダー・ザ・レッグ・トラピーズ"
@@ -896,6 +1090,7 @@
             }
           },
           {
+            "id": "1a-level9-trick23",
             "name": {
               "en": "Behind the Back Trapeze",
               "ja": "ビハインド・ザ・バック・トラピーズ"
@@ -906,6 +1101,7 @@
             }
           },
           {
+            "id": "1a-level9-trick24",
             "name": {
               "en": "Laceration Bind",
               "ja": "ラセレーション・バインド"
@@ -916,6 +1112,7 @@
             }
           },
           {
+            "id": "1a-level9-trick25",
             "name": {
               "en": "Horizontal Gyro Revolution",
               "ja": "ホリゾンタル・ジャイロ・レボリューション"
@@ -926,6 +1123,7 @@
             }
           },
           {
+            "id": "1a-level9-trick26",
             "name": {
               "en": "Chopstick Rabbit",
               "ja": "チョップスティック・ラビット"
@@ -936,6 +1134,7 @@
             }
           },
           {
+            "id": "1a-level9-trick27",
             "name": {
               "en": "Sarvant Trapeze",
               "ja": "サラバント・トラビーズ"
@@ -946,6 +1145,7 @@
             }
           },
           {
+            "id": "1a-level9-trick28",
             "name": {
               "en": "Chopstick Round Trip",
               "ja": "チョップスティック・ラウンド・トリップ"
@@ -960,12 +1160,26 @@
     ]
   },
   {
+    "id": "2a",
     "name": "2A",
     "levels": [
       {
+        "id": "2a-level1",
         "name": "level1",
         "tricks": [
           {
+            "id": "2a-level1-trick1",
+            "name": {
+              "en": "Warp Drive",
+              "ja": "ワープ・ドライブ"
+            },
+            "note": {
+              "ja": "３回",
+              "en": ""
+            }
+          },
+          {
+            "id": "2a-level1-trick2",
             "name": {
               "en": "In/Out Loop (Gemini Loop)",
               "ja": "イン・アウト・ループ（ジェミニ・ループ）"
@@ -976,6 +1190,7 @@
             }
           },
           {
+            "id": "2a-level1-trick3",
             "name": {
               "en": "In/Out Hop",
               "ja": "イン・アウト・ホップ"
@@ -986,6 +1201,7 @@
             }
           },
           {
+            "id": "2a-level1-trick4",
             "name": {
               "en": "Leg Wrap Twist",
               "ja": "レッグ・ラップ・ツイスト"
@@ -996,6 +1212,7 @@
             }
           },
           {
+            "id": "2a-level1-trick5",
             "name": {
               "en": "Neck Wrap Twist (Guilotine)",
               "ja": "ネック・ラップ・ツイスト（ギロチン）"
@@ -1006,6 +1223,7 @@
             }
           },
           {
+            "id": "2a-level1-trick6",
             "name": {
               "en": "Shoulder Wrap Twist",
               "ja": "ショルダー・ラップ・ツイスト"
@@ -1016,6 +1234,7 @@
             }
           },
           {
+            "id": "2a-level1-trick7",
             "name": {
               "en": "Horizontal Loop",
               "ja": "ホリゾンタル・ループ"
@@ -1026,6 +1245,7 @@
             }
           },
           {
+            "id": "2a-level1-trick8",
             "name": {
               "en": "Reach for the Moon (Shoot the Moon)",
               "ja": "リーチ・フォー・ザ・ムーン（シュート・ザ・ムーン）"
@@ -1036,6 +1256,7 @@
             }
           },
           {
+            "id": "2a-level1-trick9",
             "name": {
               "en": "Vertical Punch (Vertical Loop)",
               "ja": "バーティカル・パンチ（バーティカル・ループ）"
@@ -1048,9 +1269,22 @@
         ]
       },
       {
+        "id": "2a-level2",
         "name": "level2",
         "tricks": [
           {
+            "id": "2a-level2-trick1",
+            "name": {
+              "en": "Breast Loop",
+              "ja": "ブレスト・ループ"
+            },
+            "note": {
+              "ja": "５回",
+              "en": ""
+            }
+          },
+          {
+            "id": "2a-level2-trick2",
             "name": {
               "en": "Behind the Back Loop",
               "ja": "ビハインド・ザ・バック・ループ"
@@ -1061,6 +1295,7 @@
             }
           },
           {
+            "id": "2a-level2-trick3",
             "name": {
               "en": "Loop Arm Wrap",
               "ja": "ループ・アーム・ラップ"
@@ -1071,6 +1306,7 @@
             }
           },
           {
+            "id": "2a-level2-trick4",
             "name": {
               "en": "Hop Arm Wrap",
               "ja": "ホップ・アーム・ラップ"
@@ -1081,6 +1317,7 @@
             }
           },
           {
+            "id": "2a-level2-trick5",
             "name": {
               "en": "Loop Pull-over Arm-wrap",
               "ja": "ループ・プルオーバー・アーム・ラップ"
@@ -1091,6 +1328,7 @@
             }
           },
           {
+            "id": "2a-level2-trick6",
             "name": {
               "en": "Hop Pull-over Arm-wrap",
               "ja": "ホップ・プルオーバー・アーム・ラップ"
@@ -1101,6 +1339,7 @@
             }
           },
           {
+            "id": "2a-level2-trick7",
             "name": {
               "en": "Fountain",
               "ja": "ファウンテン"
@@ -1111,6 +1350,7 @@
             }
           },
           {
+            "id": "2a-level2-trick8",
             "name": {
               "en": "Staircase (Screw, Variable Slicer)",
               "ja": "スティアケース（スクリュー、バリアブル・スライサー）"
@@ -1121,6 +1361,7 @@
             }
           },
           {
+            "id": "2a-level2-trick9",
             "name": {
               "en": "Clione",
               "ja": "クリオネ"
@@ -1133,9 +1374,22 @@
         ]
       },
       {
+        "id": "2a-level3",
         "name": "level3",
         "tricks": [
           {
+            "id": "2a-level3-trick1",
+            "name": {
+              "en": "Single Wrap",
+              "ja": "シングル・ラップ"
+            },
+            "note": {
+              "ja": "",
+              "en": ""
+            }
+          },
+          {
+            "id": "2a-level3-trick2",
             "name": {
               "en": "Pullover Wrap",
               "ja": "プルオーバー・ラップ"
@@ -1148,9 +1402,22 @@
         ]
       },
       {
+        "id": "2a-level4",
         "name": "level4",
         "tricks": [
           {
+            "id": "2a-level4-trick1",
+            "name": {
+              "en": "2H Around the World",
+              "ja": "アラウンド・ザ・ワールド"
+            },
+            "note": {
+              "ja": "３回",
+              "en": ""
+            }
+          },
+          {
+            "id": "2a-level4-trick2",
             "name": {
               "en": "Wrist-cross Around the World",
               "ja": "リストクロス・アラウンド・ザ・ワールド"
@@ -1161,6 +1428,7 @@
             }
           },
           {
+            "id": "2a-level4-trick3",
             "name": {
               "en": "2H Inside Loop (Double Loop)",
               "ja": "インサイド・ループ（ダブル・ループ）"
@@ -1171,6 +1439,7 @@
             }
           },
           {
+            "id": "2a-level4-trick4",
             "name": {
               "en": "Yamada Wrap",
               "ja": "ヤマダ・ラップ"
@@ -1181,6 +1450,7 @@
             }
           },
           {
+            "id": "2a-level4-trick5",
             "name": {
               "en": "Sword and Shield",
               "ja": "ソード・アンド・シールド"
@@ -1191,6 +1461,7 @@
             }
           },
           {
+            "id": "2a-level4-trick6",
             "name": {
               "en": "Shoulder Wrap Twist",
               "ja": "ショルダー・ラップ・ツイスト"
@@ -1201,6 +1472,7 @@
             }
           },
           {
+            "id": "2a-level4-trick7",
             "name": {
               "en": "2H Hop the Fence",
               "ja": "ホップ・ザ・フェンス（ミルク・ザ・カウ）"
@@ -1211,6 +1483,7 @@
             }
           },
           {
+            "id": "2a-level4-trick8",
             "name": {
               "en": "Sleep Arm-wrap",
               "ja": "スリープ・アーム・ラップ"
@@ -1221,6 +1494,7 @@
             }
           },
           {
+            "id": "2a-level4-trick9",
             "name": {
               "en": "Pinwheel",
               "ja": "ピンホイール"
@@ -1233,9 +1507,22 @@
         ]
       },
       {
+        "id": "2a-level5",
         "name": "level5",
         "tricks": [
           {
+            "id": "2a-level5-trick1",
+            "name": {
+              "en": "Loop-Cross Inside Loop",
+              "ja": "ループクロス・インサイド・ループ"
+            },
+            "note": {
+              "ja": "１０回",
+              "en": ""
+            }
+          },
+          {
+            "id": "2a-level5-trick2",
             "name": {
               "en": "Inside Loop / Hop",
               "ja": "インサイド・ループ／ホップ・ザ・フェンス"
@@ -1246,6 +1533,7 @@
             }
           },
           {
+            "id": "2a-level5-trick3",
             "name": {
               "en": "2H Outside Loop",
               "ja": "アウトサイド・ループ"
@@ -1256,6 +1544,7 @@
             }
           },
           {
+            "id": "2a-level5-trick4",
             "name": {
               "en": "Warp Drive Time Warp",
               "ja": "ワープ・ドライブ・タイム・ワープ"
@@ -1266,6 +1555,7 @@
             }
           },
           {
+            "id": "2a-level5-trick5",
             "name": {
               "en": "Lay on the Back Inside Loop",
               "ja": "レイ・オン・ザ・バック・インサイド・ループ"
@@ -1276,6 +1566,7 @@
             }
           },
           {
+            "id": "2a-level5-trick6",
             "name": {
               "en": "Inside Loop/ Moon",
               "ja": "インサイド・ループ／リーチ・フォー・ザ・ムーン"
@@ -1286,6 +1577,7 @@
             }
           },
           {
+            "id": "2a-level5-trick7",
             "name": {
               "en": "Windshield Wiper",
               "ja": "ウインドシールド・ワイパー"
@@ -1296,6 +1588,7 @@
             }
           },
           {
+            "id": "2a-level5-trick8",
             "name": {
               "en": "2H Planet Hop",
               "ja": "プラネット・ホップ"
@@ -1306,6 +1599,7 @@
             }
           },
           {
+            "id": "2a-level5-trick9",
             "name": {
               "en": "2H Punching Bag",
               "ja": "パンチング・バッグ"
@@ -1318,9 +1612,22 @@
         ]
       },
       {
+        "id": "2a-level6",
         "name": "level6",
         "tricks": [
           {
+            "id": "2a-level6-trick1",
+            "name": {
+              "en": "2H Breast Loop",
+              "ja": "ブレスト・ループ"
+            },
+            "note": {
+              "ja": "１０回",
+              "en": ""
+            }
+          },
+          {
+            "id": "2a-level6-trick2",
             "name": {
               "en": "2H Horizontal Loop",
               "ja": "ホリゾンタル・ループ"
@@ -1331,6 +1638,7 @@
             }
           },
           {
+            "id": "2a-level6-trick3",
             "name": {
               "en": "Wrist Cross Tangler",
               "ja": "リストクロス・タングラー"
@@ -1341,6 +1649,7 @@
             }
           },
           {
+            "id": "2a-level6-trick4",
             "name": {
               "en": "In/out Tangler",
               "ja": "イン・アウト・タングラー"
@@ -1351,6 +1660,7 @@
             }
           },
           {
+            "id": "2a-level6-trick5",
             "name": {
               "en": "2H Vertical Punch",
               "ja": "バーティカル・パンチ"
@@ -1361,6 +1671,7 @@
             }
           },
           {
+            "id": "2a-level6-trick6",
             "name": {
               "en": "2H Inside Outside Loop",
               "ja": "イン・アウト・ループ"
@@ -1371,6 +1682,7 @@
             }
           },
           {
+            "id": "2a-level6-trick7",
             "name": {
               "en": "Wrist-Cross Inside Loop",
               "ja": "リストクロス・インサイド・ループ"
@@ -1381,6 +1693,7 @@
             }
           },
           {
+            "id": "2a-level6-trick8",
             "name": {
               "en": "Double-Cross Inside Loop",
               "ja": "ダブルクロス・インサイド・ループ"
@@ -1391,6 +1704,7 @@
             }
           },
           {
+            "id": "2a-level6-trick9",
             "name": {
               "en": "Under The Leg Loop",
               "ja": "インサイド・ループ / アンダー・ザ・レッグ・ループ"
@@ -1403,9 +1717,22 @@
         ]
       },
       {
+        "id": "2a-level7",
         "name": "level7",
         "tricks": [
           {
+            "id": "2a-level7-trick1",
+            "name": {
+              "en": "Reach for the Moon Stall",
+              "ja": "リーチ・フォー・ザ・ムーン・ストール"
+            },
+            "note": {
+              "ja": "３回",
+              "en": ""
+            }
+          },
+          {
+            "id": "2a-level7-trick2",
             "name": {
               "en": "Tangler / Wrist-cross / Tangler",
               "ja": "タングラー～リストクロス～タングラー"
@@ -1416,6 +1743,7 @@
             }
           },
           {
+            "id": "2a-level7-trick3",
             "name": {
               "en": "Love Machine",
               "ja": "ラブ・マシーン"
@@ -1426,6 +1754,7 @@
             }
           },
           {
+            "id": "2a-level7-trick4",
             "name": {
               "en": "2H Inside Outside Hop",
               "ja": "イン・アウト・ホップ"
@@ -1436,6 +1765,7 @@
             }
           },
           {
+            "id": "2a-level7-trick5",
             "name": {
               "en": "In/Out Vertical Punch",
               "ja": "イン・アウト・バーティカル・パンチ"
@@ -1446,6 +1776,7 @@
             }
           },
           {
+            "id": "2a-level7-trick6",
             "name": {
               "en": "2H Reach for the Moon",
               "ja": "リーチ・フォー・ザ・ムーン"
@@ -1456,6 +1787,7 @@
             }
           },
           {
+            "id": "2a-level7-trick7",
             "name": {
               "en": "Staircase",
               "ja": "スティアケース"
@@ -1466,6 +1798,7 @@
             }
           },
           {
+            "id": "2a-level7-trick8",
             "name": {
               "en": "Fountain",
               "ja": "ファウンテン"
@@ -1476,6 +1809,7 @@
             }
           },
           {
+            "id": "2a-level7-trick9",
             "name": {
               "en": "Clione",
               "ja": "クリオネ"
@@ -1488,9 +1822,22 @@
         ]
       },
       {
+        "id": "2a-level8",
         "name": "level8",
         "tricks": [
           {
+            "id": "2a-level8-trick1",
+            "name": {
+              "en": "Loop Arm Wrap",
+              "ja": "ループ・アーム・ラップ"
+            },
+            "note": {
+              "ja": "３回",
+              "en": ""
+            }
+          },
+          {
+            "id": "2a-level8-trick2",
             "name": {
               "en": "Hop Arm Wrap",
               "ja": "ホップ・アーム・ラップ"
@@ -1501,6 +1848,7 @@
             }
           },
           {
+            "id": "2a-level8-trick3",
             "name": {
               "en": "Hop Pull-over Arm Wrap",
               "ja": "ホップ・プルオーバー・アーム・ラップ"
@@ -1511,6 +1859,7 @@
             }
           },
           {
+            "id": "2a-level8-trick4",
             "name": {
               "en": "Loop Pull-over Arm Wrap",
               "ja": "ループ・プルオーバー・アーム・ラップ"
@@ -1521,6 +1870,7 @@
             }
           },
           {
+            "id": "2a-level8-trick5",
             "name": {
               "en": "Love Machine Combo",
               "ja": "ラブ・マシーン・コンボ"
@@ -1531,6 +1881,7 @@
             }
           },
           {
+            "id": "2a-level8-trick6",
             "name": {
               "en": "Vert-WD-CrossV-WD-Vert",
               "ja": "バーティカル・パンチ・トランジション"
@@ -1541,6 +1892,7 @@
             }
           },
           {
+            "id": "2a-level8-trick7",
             "name": {
               "en": "Cricket",
               "ja": "クリケット"
@@ -1551,6 +1903,7 @@
             }
           },
           {
+            "id": "2a-level8-trick8",
             "name": {
               "en": "",
               "ja": "ループ・ウーキー・スリープほどき"
@@ -1561,6 +1914,7 @@
             }
           },
           {
+            "id": "2a-level8-trick9",
             "name": {
               "en": "Kurukuru Loop",
               "ja": "クルクル・ループ"
@@ -1573,9 +1927,22 @@
         ]
       },
       {
+        "id": "2a-level9",
         "name": "level9",
         "tricks": [
           {
+            "id": "2a-level9-trick1",
+            "name": {
+              "en": "Roll-Cross Loop",
+              "ja": "ロールクロス・ループ"
+            },
+            "note": {
+              "ja": "",
+              "en": ""
+            }
+          },
+          {
+            "id": "2a-level9-trick2",
             "name": {
               "en": "",
               "ja": "ウーキー（つまみ）内外"
@@ -1586,6 +1953,7 @@
             }
           },
           {
+            "id": "2a-level9-trick3",
             "name": {
               "en": "Loop Wrap (Ladder Ver.)",
               "ja": "ループ・ラップ"
@@ -1596,6 +1964,7 @@
             }
           },
           {
+            "id": "2a-level9-trick4",
             "name": {
               "en": "",
               "ja": "ホップ・アームラップ・ツイスト・アンツイスト"
@@ -1606,6 +1975,7 @@
             }
           },
           {
+            "id": "2a-level9-trick5",
             "name": {
               "en": "Pull-over Combo (Koji Ver.)",
               "ja": "プルオーバー・コンボ （コウジ・バージョン）"
@@ -1616,6 +1986,7 @@
             }
           },
           {
+            "id": "2a-level9-trick6",
             "name": {
               "en": "LPOAW Tangler Transition",
               "ja": "LPOAW・タングラー・トランジション"
@@ -1626,6 +1997,7 @@
             }
           },
           {
+            "id": "2a-level9-trick7",
             "name": {
               "en": "Kansai Wookiee",
               "ja": "カンサイ・ウーキー"
@@ -1636,6 +2008,7 @@
             }
           },
           {
+            "id": "2a-level9-trick8",
             "name": {
               "en": "",
               "ja": "２ハンド・ループ・ウーキー"
@@ -1646,6 +2019,7 @@
             }
           },
           {
+            "id": "2a-level9-trick9",
             "name": {
               "en": "",
               "ja": "２ハンド・ループ・ラップ・内外"
@@ -1658,9 +2032,22 @@
         ]
       },
       {
+        "id": "2a-level10",
         "name": "level10",
         "tricks": [
           {
+            "id": "2a-level10-trick1",
+            "name": {
+              "en": "",
+              "ja": "ウーキー～ラブマシーン"
+            },
+            "note": {
+              "ja": "",
+              "en": ""
+            }
+          },
+          {
+            "id": "2a-level10-trick2",
             "name": {
               "en": "",
               "ja": "ホップ・プルオーバー・アーム・ラップ・イン・アウト"
@@ -1671,6 +2058,7 @@
             }
           },
           {
+            "id": "2a-level10-trick3",
             "name": {
               "en": "",
               "ja": "カンサイ・ウーキー・ループ・バージョン"
@@ -1681,6 +2069,7 @@
             }
           },
           {
+            "id": "2a-level10-trick4",
             "name": {
               "en": "",
               "ja": "ホップ・アームラップ・アウト（コウジバージョン）"
@@ -1691,6 +2080,7 @@
             }
           },
           {
+            "id": "2a-level10-trick5",
             "name": {
               "en": "",
               "ja": "ウーキー・ファウンテン"
@@ -1701,6 +2091,7 @@
             }
           },
           {
+            "id": "2a-level10-trick6",
             "name": {
               "en": "One Side Clione",
               "ja": "ワンサイド・クリオネ"
@@ -1711,6 +2102,7 @@
             }
           },
           {
+            "id": "2a-level10-trick7",
             "name": {
               "en": "Wrist Cross Fountain",
               "ja": "リストクロス・ファウンテン"
@@ -1721,6 +2113,7 @@
             }
           },
           {
+            "id": "2a-level10-trick8",
             "name": {
               "en": "Wrist Cross Staircase",
               "ja": "リストクロス・スティアケース"
@@ -1731,6 +2124,7 @@
             }
           },
           {
+            "id": "2a-level10-trick9",
             "name": {
               "en": "Reverse Clione",
               "ja": "リバース・クリオネ"
@@ -1741,6 +2135,7 @@
             }
           },
           {
+            "id": "2a-level10-trick10",
             "name": {
               "en": "Reverse Staircase",
               "ja": "リバース・スティアケース"
@@ -1751,6 +2146,7 @@
             }
           },
           {
+            "id": "2a-level10-trick11",
             "name": {
               "en": "",
               "ja": "２ハンドホップ・アームラップ・内外"
@@ -1763,18 +2159,45 @@
         ]
       },
       {
+        "id": "2a-level11",
         "name": "level11",
-        "tricks": []
+        "tricks": [
+          {
+            "id": "2a-level11-trick1",
+            "name": {
+              "en": "Reverse Yamada Wrap",
+              "ja": "リバース・ヤマダ・ラップ"
+            },
+            "note": {
+              "ja": "",
+              "en": ""
+            }
+          }
+        ]
       }
     ]
   },
   {
+    "id": "3a",
     "name": "3A",
     "levels": [
       {
+        "id": "3a-level1",
         "name": "level1",
         "tricks": [
           {
+            "id": "3a-level1-trick1",
+            "name": {
+              "en": "Gun Slinger",
+              "ja": "ガン・スリンガー"
+            },
+            "note": {
+              "ja": "前方、後方それぞれ3回以上",
+              "en": ""
+            }
+          },
+          {
+            "id": "3a-level1-trick2",
             "name": {
               "en": "2H Plastic Whip",
               "ja": "２ハンド・プラスチック・ウィップ"
@@ -1785,6 +2208,7 @@
             }
           },
           {
+            "id": "3a-level1-trick3",
             "name": {
               "en": "Half Assisted 1.5Trapeze",
               "ja": "ハーフ・アシステッド・１．５トラピーズ"
@@ -1795,6 +2219,7 @@
             }
           },
           {
+            "id": "3a-level1-trick4",
             "name": {
               "en": "Assisted Brain Twister",
               "ja": "アシステッド・ブレイン・ツイスター"
@@ -1805,6 +2230,7 @@
             }
           },
           {
+            "id": "3a-level1-trick5",
             "name": {
               "en": "Divide Slack",
               "ja": "ディバイド・スラック"
@@ -1815,6 +2241,7 @@
             }
           },
           {
+            "id": "3a-level1-trick6",
             "name": {
               "en": "Kinky Mount\n",
               "ja": "キンキー・マウント"
@@ -1825,6 +2252,7 @@
             }
           },
           {
+            "id": "3a-level1-trick7",
             "name": {
               "en": "Blueline Rolls",
               "ja": "ブルーライン・ロール"
@@ -1835,6 +2263,7 @@
             }
           },
           {
+            "id": "3a-level1-trick8",
             "name": {
               "en": "Velvet Rolls",
               "ja": "ベルベット・ロール"
@@ -1845,6 +2274,7 @@
             }
           },
           {
+            "id": "3a-level1-trick9",
             "name": {
               "en": "Assisted Trapeze",
               "ja": "アシステッド・トラピーズ"
@@ -1859,12 +2289,26 @@
     ]
   },
   {
+    "id": "4a",
     "name": "4A",
     "levels": [
       {
+        "id": "4a-level1",
         "name": "level1",
         "tricks": [
           {
+            "id": "4a-level1-trick1",
+            "name": {
+              "en": "Forward Pass Release",
+              "ja": "フォワード・パス・リリース"
+            },
+            "note": {
+              "ja": "投げあげた後、手でキャッチ",
+              "en": ""
+            }
+          },
+          {
+            "id": "4a-level1-trick2",
             "name": {
               "en": "Forward Pass Mount",
               "ja": "フォワード・パス・マウント"
@@ -1875,6 +2319,7 @@
             }
           },
           {
+            "id": "4a-level1-trick3",
             "name": {
               "en": "Forward Pass Mount & Keep",
               "ja": "フォワード・パス・マウント＆スリープ"
@@ -1885,6 +2330,7 @@
             }
           },
           {
+            "id": "4a-level1-trick4",
             "name": {
               "en": "Forward Pass Mount & Wind",
               "ja": "フォワード・パス・マウント＆ワインド"
@@ -1895,6 +2341,7 @@
             }
           },
           {
+            "id": "4a-level1-trick5",
             "name": {
               "en": "Forward Pass Mount, Keep & Wind",
               "ja": "フォワード・パス・マウント＆スリープ＆ワインド"
@@ -1905,6 +2352,7 @@
             }
           },
           {
+            "id": "4a-level1-trick6",
             "name": {
               "en": "Magic Wind",
               "ja": "マジック・ワインド"
@@ -1915,6 +2363,7 @@
             }
           },
           {
+            "id": "4a-level1-trick7",
             "name": {
               "en": "OS Barrel Roll",
               "ja": "ＯＳバレル・ロール"
@@ -1925,6 +2374,7 @@
             }
           },
           {
+            "id": "4a-level1-trick8",
             "name": {
               "en": "OS Elevator",
               "ja": "ＯＳエレベーター"
@@ -1935,6 +2385,7 @@
             }
           },
           {
+            "id": "4a-level1-trick9",
             "name": {
               "en": "Swing",
               "ja": "スイング"
@@ -1947,9 +2398,22 @@
         ]
       },
       {
+        "id": "4a-level2",
         "name": "level2",
         "tricks": [
           {
+            "id": "4a-level2-trick1",
+            "name": {
+              "en": "Railing Trapeze",
+              "ja": "レイリング・トラピーズ"
+            },
+            "note": {
+              "ja": "１往復（両側１回ずつ）",
+              "en": ""
+            }
+          },
+          {
+            "id": "4a-level2-trick2",
             "name": {
               "en": "Ripple",
               "ja": "リップル"
@@ -1960,6 +2424,7 @@
             }
           },
           {
+            "id": "4a-level2-trick3",
             "name": {
               "en": "The Sun",
               "ja": "ザ・サン"
@@ -1970,6 +2435,7 @@
             }
           },
           {
+            "id": "4a-level2-trick4",
             "name": {
               "en": "Rabbit",
               "ja": "ラビット"
@@ -1980,6 +2446,7 @@
             }
           },
           {
+            "id": "4a-level2-trick5",
             "name": {
               "en": "OS Creeper",
               "ja": "ＯＳクリーパー"
@@ -1990,6 +2457,7 @@
             }
           },
           {
+            "id": "4a-level2-trick6",
             "name": {
               "en": "Swing Wheel",
               "ja": "スイング・ホイール"
@@ -2000,6 +2468,7 @@
             }
           },
           {
+            "id": "4a-level2-trick7",
             "name": {
               "en": "String Release",
               "ja": "ストリング・リリース"
@@ -2010,6 +2479,7 @@
             }
           },
           {
+            "id": "4a-level2-trick8",
             "name": {
               "en": "OS Winder",
               "ja": "ＯＳワインダー"
@@ -2020,6 +2490,7 @@
             }
           },
           {
+            "id": "4a-level2-trick9",
             "name": {
               "en": "OS Dizzy Baby",
               "ja": "ＯＳディジー・ベイビー"
@@ -2032,9 +2503,22 @@
         ]
       },
       {
+        "id": "4a-level3",
         "name": "level3",
         "tricks": [
           {
+            "id": "4a-level3-trick1",
+            "name": {
+              "en": "OS Barrel Roll 2",
+              "ja": "ＯＳバレル・ロール２"
+            },
+            "note": {
+              "ja": "前方２回、後方２回",
+              "en": ""
+            }
+          },
+          {
+            "id": "4a-level3-trick2",
             "name": {
               "en": "Inside Somersault",
               "ja": "インサイド・サマーソルト"
@@ -2045,6 +2529,7 @@
             }
           },
           {
+            "id": "4a-level3-trick3",
             "name": {
               "en": "Terry’s Toss",
               "ja": "テリー・トス"
@@ -2055,6 +2540,7 @@
             }
           },
           {
+            "id": "4a-level3-trick4",
             "name": {
               "en": "Rolling Star",
               "ja": "ローリング・スター"
@@ -2065,6 +2551,7 @@
             }
           },
           {
+            "id": "4a-level3-trick5",
             "name": {
               "en": "Brain Twister Mount",
               "ja": "ブレイン・ツイスター・マウント"
@@ -2075,6 +2562,7 @@
             }
           },
           {
+            "id": "4a-level3-trick6",
             "name": {
               "en": "Over Chicken Whip",
               "ja": "オーバー・チキン・ウィップ"
@@ -2085,6 +2573,7 @@
             }
           },
           {
+            "id": "4a-level3-trick7",
             "name": {
               "en": "OS Roller Coaster",
               "ja": "ＯＳローラー・コースター"
@@ -2095,6 +2584,7 @@
             }
           },
           {
+            "id": "4a-level3-trick8",
             "name": {
               "en": "Trampoline",
               "ja": "トランポリン"
@@ -2105,6 +2595,7 @@
             }
           },
           {
+            "id": "4a-level3-trick9",
             "name": {
               "en": "Engine",
               "ja": "エンジン"
@@ -2117,9 +2608,22 @@
         ]
       },
       {
+        "id": "4a-level4",
         "name": "level4",
         "tricks": [
           {
+            "id": "4a-level4-trick1",
+            "name": {
+              "en": "Jet Coaster",
+              "ja": "ジェット・コースター"
+            },
+            "note": {
+              "ja": "３周以上",
+              "en": ""
+            }
+          },
+          {
+            "id": "4a-level4-trick2",
             "name": {
               "en": "Back Burner",
               "ja": "バック・バーナー"
@@ -2130,6 +2634,7 @@
             }
           },
           {
+            "id": "4a-level4-trick3",
             "name": {
               "en": "Magic Toss",
               "ja": "マジック・トス"
@@ -2140,6 +2645,7 @@
             }
           },
           {
+            "id": "4a-level4-trick4",
             "name": {
               "en": "Jump Rope",
               "ja": "ジャンプ・ロープ"
@@ -2150,6 +2656,7 @@
             }
           },
           {
+            "id": "4a-level4-trick5",
             "name": {
               "en": "Under Whip",
               "ja": "アンダー・ウィップ"
@@ -2160,6 +2667,7 @@
             }
           },
           {
+            "id": "4a-level4-trick6",
             "name": {
               "en": "Behind Back Catch",
               "ja": "ビハインド・バック・キャッチ"
@@ -2170,6 +2678,7 @@
             }
           },
           {
+            "id": "4a-level4-trick7",
             "name": {
               "en": "Recapture",
               "ja": "リキャプチャー"
@@ -2180,6 +2689,7 @@
             }
           },
           {
+            "id": "4a-level4-trick8",
             "name": {
               "en": "Orbit the Leg",
               "ja": "オービット・ザ・レッグ"
@@ -2190,6 +2700,7 @@
             }
           },
           {
+            "id": "4a-level4-trick9",
             "name": {
               "en": "Around the Arm",
               "ja": "アラウンド・ジ・アーム"
@@ -2202,9 +2713,22 @@
         ]
       },
       {
+        "id": "4a-level5",
         "name": "level5",
         "tricks": [
           {
+            "id": "4a-level5-trick1",
+            "name": {
+              "en": "Over Whip",
+              "ja": "オーバー・ウィップ"
+            },
+            "note": {
+              "ja": "１回",
+              "en": ""
+            }
+          },
+          {
+            "id": "4a-level5-trick2",
             "name": {
               "en": "Vertical Boingy Boingy",
               "ja": "バーティカル・ボヨン・ボヨン"
@@ -2215,6 +2739,7 @@
             }
           },
           {
+            "id": "4a-level5-trick3",
             "name": {
               "en": "Infinite Star",
               "ja": "イニフィニット・スター"
@@ -2225,6 +2750,7 @@
             }
           },
           {
+            "id": "4a-level5-trick4",
             "name": {
               "en": "Catch Turn",
               "ja": "キャッチ・ターン"
@@ -2235,6 +2761,7 @@
             }
           },
           {
+            "id": "4a-level5-trick5",
             "name": {
               "en": "OS Poppin Fresh",
               "ja": "ＯＳポッピン・フレッシュ"
@@ -2245,6 +2772,7 @@
             }
           },
           {
+            "id": "4a-level5-trick6",
             "name": {
               "en": "Barrel Boingy Boingy",
               "ja": "バレル・ボヨン・ボヨン"
@@ -2255,6 +2783,7 @@
             }
           },
           {
+            "id": "4a-level5-trick7",
             "name": {
               "en": "Reverse Barrel Boingy Boingy",
               "ja": "リバース・バレル・ボヨン・ボヨン"
@@ -2265,6 +2794,7 @@
             }
           },
           {
+            "id": "4a-level5-trick8",
             "name": {
               "en": "Moon Regeneration",
               "ja": "ムーン・リジェネレーション"
@@ -2275,6 +2805,7 @@
             }
           },
           {
+            "id": "4a-level5-trick9",
             "name": {
               "en": "Toss & Reverse Catch",
               "ja": "トス＆リバース・キャッチ"
@@ -2287,9 +2818,22 @@
         ]
       },
       {
+        "id": "4a-level6",
         "name": "level6",
         "tricks": [
           {
+            "id": "4a-level6-trick1",
+            "name": {
+              "en": "Ring Minority Report",
+              "ja": "リング・マイノリティ・リポート"
+            },
+            "note": {
+              "ja": "（マイノリティ・リポート）",
+              "en": ""
+            }
+          },
+          {
+            "id": "4a-level6-trick2",
             "name": {
               "en": "Under Line Whip",
               "ja": "アンダー・ライン・ウィップ"
@@ -2300,6 +2844,7 @@
             }
           },
           {
+            "id": "4a-level6-trick3",
             "name": {
               "en": "Sen Poppin",
               "ja": "セン・ポッピン"
@@ -2310,6 +2855,7 @@
             }
           },
           {
+            "id": "4a-level6-trick4",
             "name": {
               "en": "Volcano",
               "ja": "ボルケーノ"
@@ -2320,6 +2866,7 @@
             }
           },
           {
+            "id": "4a-level6-trick5",
             "name": {
               "en": "Over Line Whip",
               "ja": "オーバー・ライン・ウィップ"
@@ -2330,6 +2877,7 @@
             }
           },
           {
+            "id": "4a-level6-trick6",
             "name": {
               "en": "Line Minority",
               "ja": "ライン・マイノリティ"
@@ -2340,6 +2888,7 @@
             }
           },
           {
+            "id": "4a-level6-trick7",
             "name": {
               "en": "OS Tamhawk Special",
               "ja": "ＯＳタムホーク・スペシャル"
@@ -2350,6 +2899,7 @@
             }
           },
           {
+            "id": "4a-level6-trick8",
             "name": {
               "en": "Horizontal Boingy Boingy",
               "ja": "ホリゾンタル・ボヨン・ボヨン"
@@ -2360,6 +2910,7 @@
             }
           },
           {
+            "id": "4a-level6-trick9",
             "name": {
               "en": "Slack Recapture",
               "ja": "スラック・リキャプチャー（リバース・フック）"
@@ -2370,6 +2921,7 @@
             }
           },
           {
+            "id": "4a-level6-trick10",
             "name": {
               "en": "OS Hook",
               "ja": "ＯＳフック"
@@ -2380,6 +2932,7 @@
             }
           },
           {
+            "id": "4a-level6-trick11",
             "name": {
               "en": "Reverse Hook",
               "ja": "リバース・フック（スラック・リキャプチャー）"
@@ -2390,6 +2943,7 @@
             }
           },
           {
+            "id": "4a-level6-trick12",
             "name": {
               "en": "Grind And Whip",
               "ja": "グラインド＆ウィップ"
@@ -2400,6 +2954,7 @@
             }
           },
           {
+            "id": "4a-level6-trick13",
             "name": {
               "en": "Alpha Barrel Roll",
               "ja": "アルファ・バレル・ロール"
@@ -2410,6 +2965,7 @@
             }
           },
           {
+            "id": "4a-level6-trick14",
             "name": {
               "en": "Quick Ring",
               "ja": "クイック・リング"
@@ -2420,6 +2976,7 @@
             }
           },
           {
+            "id": "4a-level6-trick15",
             "name": {
               "en": "OS Green Triangle",
               "ja": "ＯＳグリーン・トライアングル"
@@ -2430,6 +2987,7 @@
             }
           },
           {
+            "id": "4a-level6-trick16",
             "name": {
               "en": "Clapping Volcano",
               "ja": "クラッピング・ボルケーノ"
@@ -2440,6 +2998,7 @@
             }
           },
           {
+            "id": "4a-level6-trick17",
             "name": {
               "en": "Rising Boingy Boingy",
               "ja": "ライジング・ボヨン・ボヨン"
@@ -2450,6 +3009,7 @@
             }
           },
           {
+            "id": "4a-level6-trick18",
             "name": {
               "en": "In Out Sen Poppin",
               "ja": "イン・アウト・セン・ポッピン"
@@ -2460,6 +3020,7 @@
             }
           },
           {
+            "id": "4a-level6-trick19",
             "name": {
               "en": "Back Burner Recapture",
               "ja": "バック・バーナー・リキャプチャー"
@@ -2470,6 +3031,7 @@
             }
           },
           {
+            "id": "4a-level6-trick20",
             "name": {
               "en": "Loop Regen",
               "ja": "ループ・リジェネレーション"
@@ -2480,6 +3042,7 @@
             }
           },
           {
+            "id": "4a-level6-trick21",
             "name": {
               "en": "Hop to BT Mount",
               "ja": "ホップからＢＴマウント"
@@ -2490,6 +3053,7 @@
             }
           },
           {
+            "id": "4a-level6-trick22",
             "name": {
               "en": "Vertical Punch to Moon Mount",
               "ja": "バーティカルからBTマウント"
@@ -2500,6 +3064,7 @@
             }
           },
           {
+            "id": "4a-level6-trick23",
             "name": {
               "en": "One-hand Around the Arm",
               "ja": "ワンハンド・アラウンド・ジ・アーム"
@@ -2510,6 +3075,7 @@
             }
           },
           {
+            "id": "4a-level6-trick24",
             "name": {
               "en": "Reverse Around the Arm",
               "ja": "リバース・アラウンド・ジ・アーム"
@@ -2520,6 +3086,7 @@
             }
           },
           {
+            "id": "4a-level6-trick25",
             "name": {
               "en": "Open Whip",
               "ja": "オープン・ウィップ"
@@ -2530,6 +3097,7 @@
             }
           },
           {
+            "id": "4a-level6-trick26",
             "name": {
               "en": "Open Catch",
               "ja": "オープン・キャッチ"
@@ -2540,6 +3108,7 @@
             }
           },
           {
+            "id": "4a-level6-trick27",
             "name": {
               "en": "Rolling Boingy Boingy",
               "ja": "ローリング・ボヨン・ボヨン"
@@ -2550,6 +3119,7 @@
             }
           },
           {
+            "id": "4a-level6-trick28",
             "name": {
               "en": "OS Ping Pong",
               "ja": "ＯＳピンポン"
@@ -2560,6 +3130,7 @@
             }
           },
           {
+            "id": "4a-level6-trick29",
             "name": {
               "en": "Front Arm mount",
               "ja": "フロント・アーム・マウント"
@@ -2570,6 +3141,7 @@
             }
           },
           {
+            "id": "4a-level6-trick30",
             "name": {
               "en": "Back Arm Mount",
               "ja": "バック・アーム・マウント"
@@ -2580,6 +3152,7 @@
             }
           },
           {
+            "id": "4a-level6-trick31",
             "name": {
               "en": "Recapture Repeat",
               "ja": "リキャプチャー・リピート"
@@ -2590,6 +3163,7 @@
             }
           },
           {
+            "id": "4a-level6-trick32",
             "name": {
               "en": "Ring Recapture Repeat",
               "ja": "リング・リキャプチャー・リピート"
@@ -2600,6 +3174,7 @@
             }
           },
           {
+            "id": "4a-level6-trick33",
             "name": {
               "en": "OS Seasick",
               "ja": "ＯＳシーシック"
@@ -2610,6 +3185,7 @@
             }
           },
           {
+            "id": "4a-level6-trick34",
             "name": {
               "en": "Out Out Sen Poppin",
               "ja": "アウト・アウト・セン・ポッピン"
@@ -2620,6 +3196,7 @@
             }
           },
           {
+            "id": "4a-level6-trick35",
             "name": {
               "en": "Open Whip Minority",
               "ja": "オープン・ウィップ・マイノリティ"
@@ -2630,6 +3207,7 @@
             }
           },
           {
+            "id": "4a-level6-trick36",
             "name": {
               "en": "Reverse Vertical Boingy Boingy",
               "ja": "リバース・ヴァーティカル・ボヨン・ボヨン"
@@ -2640,6 +3218,7 @@
             }
           },
           {
+            "id": "4a-level6-trick37",
             "name": {
               "en": "Eiji Regeneration",
               "ja": "エイジ・リジェネレーション"
@@ -2650,6 +3229,7 @@
             }
           },
           {
+            "id": "4a-level6-trick38",
             "name": {
               "en": "Reverse Horizontal Boingy Boingy",
               "ja": "リバース・ホリゾンタル・ボヨン・ボヨン"
@@ -2660,6 +3240,7 @@
             }
           },
           {
+            "id": "4a-level6-trick39",
             "name": {
               "en": "Around the Body",
               "ja": "アラウンド・ザ・ボディ"
@@ -2670,6 +3251,7 @@
             }
           },
           {
+            "id": "4a-level6-trick40",
             "name": {
               "en": "FPR to Open Whip",
               "ja": "リリースからオープン・ウィップ"
@@ -2680,6 +3262,7 @@
             }
           },
           {
+            "id": "4a-level6-trick41",
             "name": {
               "en": "FPR to Open Catch",
               "ja": "リリースからオープン・キャッチ"
@@ -2690,6 +3273,7 @@
             }
           },
           {
+            "id": "4a-level6-trick42",
             "name": {
               "en": "Throwhand Back Forth Recapture",
               "ja": "スローハンド・バック・フォース・リキャプチャー"
@@ -2700,6 +3284,7 @@
             }
           },
           {
+            "id": "4a-level6-trick43",
             "name": {
               "en": "Bothhand Switch Recapture",
               "ja": "ボースハンド・スイッチ・リキャプチャー"
@@ -2710,6 +3295,7 @@
             }
           },
           {
+            "id": "4a-level6-trick44",
             "name": {
               "en": "Recapture Turn",
               "ja": "リキャプチャー・ターン"
@@ -2720,6 +3306,7 @@
             }
           },
           {
+            "id": "4a-level6-trick45",
             "name": {
               "en": "Behind Catch Turn",
               "ja": "ビハインド・キャッチ・ターン"
@@ -2730,6 +3317,7 @@
             }
           },
           {
+            "id": "4a-level6-trick46",
             "name": {
               "en": "Reverse Recapture Turn",
               "ja": "リバース・リキャプチャー・ターン"
@@ -2740,6 +3328,7 @@
             }
           },
           {
+            "id": "4a-level6-trick47",
             "name": {
               "en": "Throwhand Back Forth Ring Recapture",
               "ja": "スローハンド・バック・フォース・リング・リキャプチャー"
@@ -2750,6 +3339,7 @@
             }
           },
           {
+            "id": "4a-level6-trick48",
             "name": {
               "en": "Bothhand Catch Ring Recapture",
               "ja": "ボースハンド・スイッチ・リング・リキャプチャー"
@@ -2760,6 +3350,7 @@
             }
           },
           {
+            "id": "4a-level6-trick49",
             "name": {
               "en": "Under the Leg Throwhand Back Forth Recapture",
               "ja": "アンダー・ザ・レッグ・スローハンド・バック・フォース・リキャプチャー"
@@ -2770,6 +3361,7 @@
             }
           },
           {
+            "id": "4a-level6-trick50",
             "name": {
               "en": "Behind Recapture Turn",
               "ja": "ビハインド・リキャプチャー・ターン"
@@ -2780,6 +3372,7 @@
             }
           },
           {
+            "id": "4a-level6-trick51",
             "name": {
               "en": "Behind Reverse Recapture Turn",
               "ja": "ビハインド・リバース・リキャプチャー・ターン"
@@ -2790,6 +3383,7 @@
             }
           },
           {
+            "id": "4a-level6-trick52",
             "name": {
               "en": "Around the Body Recapture",
               "ja": "アラウンド・ザ・ボディ・リキャプチャー"
@@ -2804,16 +3398,43 @@
     ]
   },
   {
-    "name": "5a",
+    "id": "5a",
+    "name": "5A",
     "levels": [
       {
+        "id": "5a-level1",
         "name": "level1",
-        "tricks": []
+        "tricks": [
+          {
+            "id": "5a-level1-trick1",
+            "name": {
+              "en": "Trapeze Switch",
+              "ja": "トラピーズ・スイッチ"
+            },
+            "note": {
+              "ja": " １往復以上（マウント合計３回以上）",
+              "en": ""
+            }
+          }
+        ]
       },
       {
+        "id": "5a-level2",
         "name": "level2",
         "tricks": [
           {
+            "id": "5a-level2-trick1",
+            "name": {
+              "en": "Weight Swing Double Trapeze",
+              "ja": "ウエイト・スイング・ダブル・トラピーズ"
+            },
+            "note": {
+              "ja": "",
+              "en": ""
+            }
+          },
+          {
+            "id": "5a-level2-trick2",
             "name": {
               "en": "Slide Switch",
               "ja": "スライド・スイッチ"
@@ -2824,6 +3445,7 @@
             }
           },
           {
+            "id": "5a-level2-trick3",
             "name": {
               "en": "Brain Twister 360",
               "ja": "ブレイン・ツイスター・360"
@@ -2834,6 +3456,7 @@
             }
           },
           {
+            "id": "5a-level2-trick4",
             "name": {
               "en": "Lock Weight Around",
               "ja": "ロック・ウエイト・アラウンド"
@@ -2844,6 +3467,7 @@
             }
           },
           {
+            "id": "5a-level2-trick5",
             "name": {
               "en": "Windmill",
               "ja": "ウィンドミル"
@@ -2854,6 +3478,7 @@
             }
           },
           {
+            "id": "5a-level2-trick6",
             "name": {
               "en": "Nunchaku\n",
               "ja": "ヌンチャク"
@@ -2864,6 +3489,7 @@
             }
           },
           {
+            "id": "5a-level2-trick7",
             "name": {
               "en": "Easy Meltdown",
               "ja": "イージー・メルトダウン"
@@ -2874,6 +3500,7 @@
             }
           },
           {
+            "id": "5a-level2-trick8",
             "name": {
               "en": "Boomerang Switch",
               "ja": "ブーメラン・スイッチ"
@@ -2884,6 +3511,7 @@
             }
           },
           {
+            "id": "5a-level2-trick9",
             "name": {
               "en": "Rabbit Somersault\n",
               "ja": "ラビット・サマーソルト"
@@ -2896,9 +3524,22 @@
         ]
       },
       {
+        "id": "5a-level3",
         "name": "level3",
         "tricks": [
           {
+            "id": "5a-level3-trick1",
+            "name": {
+              "en": "Windmill",
+              "ja": "ウィンドミル"
+            },
+            "note": {
+              "ja": "",
+              "en": ""
+            }
+          },
+          {
+            "id": "5a-level3-trick2",
             "name": {
               "en": "360",
               "ja": "スリーシックスティー"
@@ -2909,6 +3550,7 @@
             }
           },
           {
+            "id": "5a-level3-trick3",
             "name": {
               "en": "720",
               "ja": "セブントゥエンティー"
@@ -2919,6 +3561,7 @@
             }
           },
           {
+            "id": "5a-level3-trick4",
             "name": {
               "en": "Basic Stall",
               "ja": "ベーシックストール"
@@ -2929,6 +3572,7 @@
             }
           },
           {
+            "id": "5a-level3-trick5",
             "name": {
               "en": "Trapeze and Brother",
               "ja": "トラピーズアンドブラザー"
@@ -2939,6 +3583,7 @@
             }
           },
           {
+            "id": "5a-level3-trick6",
             "name": {
               "en": "Double or Nothing",
               "ja": "ダブルオアナッシング"
@@ -2949,6 +3594,7 @@
             }
           },
           {
+            "id": "5a-level3-trick7",
             "name": {
               "en": "Shoulder Pop",
               "ja": "ショルダーポップ"
@@ -2959,6 +3605,7 @@
             }
           },
           {
+            "id": "5a-level3-trick8",
             "name": {
               "en": "Electric Fan",
               "ja": "エレクトリックファン"
@@ -2969,6 +3616,7 @@
             }
           },
           {
+            "id": "5a-level3-trick9",
             "name": {
               "en": "Split Bottom Mount",
               "ja": "スプリットボトムマウント"
@@ -2981,9 +3629,22 @@
         ]
       },
       {
+        "id": "5a-level4",
         "name": "level4",
         "tricks": [
           {
+            "id": "5a-level4-trick1",
+            "name": {
+              "en": "1.5 Mount",
+              "ja": "1.5マウント"
+            },
+            "note": {
+              "ja": "",
+              "en": ""
+            }
+          },
+          {
+            "id": "5a-level4-trick2",
             "name": {
               "en": "Arm Cancel",
               "ja": "アームキャンセル"
@@ -2994,6 +3655,7 @@
             }
           },
           {
+            "id": "5a-level4-trick3",
             "name": {
               "en": "Pendulum",
               "ja": "ペンデュラム"
@@ -3004,6 +3666,7 @@
             }
           },
           {
+            "id": "5a-level4-trick4",
             "name": {
               "en": "Meltdown",
               "ja": "メルトダウン"
@@ -3014,6 +3677,7 @@
             }
           },
           {
+            "id": "5a-level4-trick5",
             "name": {
               "en": "Tangler",
               "ja": "タングラー"
@@ -3024,6 +3688,7 @@
             }
           },
           {
+            "id": "5a-level4-trick6",
             "name": {
               "en": "Bee Sting",
               "ja": "ビースティング"
@@ -3034,6 +3699,7 @@
             }
           },
           {
+            "id": "5a-level4-trick7",
             "name": {
               "en": "Advanced Repeating Stall",
               "ja": "アドバンスドリピーティングストール"
@@ -3044,6 +3710,7 @@
             }
           },
           {
+            "id": "5a-level4-trick8",
             "name": {
               "en": "Dice to Green Triangle",
               "ja": "ダイストゥグリーントライアングル"
@@ -3054,6 +3721,7 @@
             }
           },
           {
+            "id": "5a-level4-trick9",
             "name": {
               "en": "Under The Leg Trapeze",
               "ja": "アンダーザレッグトラピーズ"
@@ -3066,9 +3734,22 @@
         ]
       },
       {
+        "id": "5a-level5",
         "name": "level5",
         "tricks": [
           {
+            "id": "5a-level5-trick1",
+            "name": {
+              "en": "Grind Meltdown",
+              "ja": "グラインドメルトダウン"
+            },
+            "note": {
+              "ja": "",
+              "en": ""
+            }
+          },
+          {
+            "id": "5a-level5-trick2",
             "name": {
               "en": "Inside / Outside Tangler",
               "ja": "インサイド/アウトサイドタングラー"
@@ -3079,6 +3760,7 @@
             }
           },
           {
+            "id": "5a-level5-trick3",
             "name": {
               "en": "Helicopter",
               "ja": "ヘリコプター"
@@ -3089,6 +3771,7 @@
             }
           },
           {
+            "id": "5a-level5-trick4",
             "name": {
               "en": "Behind Back Braintwister",
               "ja": "ビハインドバックブレインツイスター"
@@ -3099,6 +3782,7 @@
             }
           },
           {
+            "id": "5a-level5-trick5",
             "name": {
               "en": "Double or Nothing Stall",
               "ja": "ダブルオアナッシングストール"
@@ -3109,6 +3793,7 @@
             }
           },
           {
+            "id": "5a-level5-trick6",
             "name": {
               "en": "Slapbacks",
               "ja": "スラップバックス"
@@ -3119,6 +3804,7 @@
             }
           },
           {
+            "id": "5a-level5-trick7",
             "name": {
               "en": "Mach 5",
               "ja": "マッハ5"
@@ -3129,6 +3815,7 @@
             }
           },
           {
+            "id": "5a-level5-trick8",
             "name": {
               "en": "1.5 to Green Triangle",
               "ja": "1.5トゥグリーントライアングル"
@@ -3139,6 +3826,7 @@
             }
           },
           {
+            "id": "5a-level5-trick9",
             "name": {
               "en": "Wrist Warp",
               "ja": "リストワープ"
@@ -3151,9 +3839,22 @@
         ]
       },
       {
+        "id": "5a-level6",
         "name": "level6",
         "tricks": [
           {
+            "id": "5a-level6-trick1",
+            "name": {
+              "en": "Spirals",
+              "ja": "スパイラルス"
+            },
+            "note": {
+              "ja": "",
+              "en": ""
+            }
+          },
+          {
+            "id": "5a-level6-trick2",
             "name": {
               "en": "Reverse360 Suicide",
               "ja": "リバース360スーサイド"
@@ -3164,6 +3865,7 @@
             }
           },
           {
+            "id": "5a-level6-trick3",
             "name": {
               "en": "Turnstiles",
               "ja": "ターンスタイルス"
@@ -3174,6 +3876,7 @@
             }
           },
           {
+            "id": "5a-level6-trick4",
             "name": {
               "en": "Siren",
               "ja": "サイレン"
@@ -3184,6 +3887,7 @@
             }
           },
           {
+            "id": "5a-level6-trick5",
             "name": {
               "en": "Chaos Tangler",
               "ja": "カオスタングラー"
@@ -3194,6 +3898,7 @@
             }
           },
           {
+            "id": "5a-level6-trick6",
             "name": {
               "en": "Train Surfing",
               "ja": "トレインサーフィン"
@@ -3204,6 +3909,7 @@
             }
           },
           {
+            "id": "5a-level6-trick7",
             "name": {
               "en": "Pride",
               "ja": "プライド"
@@ -3214,6 +3920,7 @@
             }
           },
           {
+            "id": "5a-level6-trick8",
             "name": {
               "en": "Reverse Fountain Tangler",
               "ja": "リバースファウンテンタングラー"
@@ -3224,6 +3931,7 @@
             }
           },
           {
+            "id": "5a-level6-trick9",
             "name": {
               "en": "Kumite",
               "ja": "クミテ"
@@ -3236,9 +3944,22 @@
         ]
       },
       {
+        "id": "5a-level7",
         "name": "level7",
         "tricks": [
           {
+            "id": "5a-level7-trick1",
+            "name": {
+              "en": "Horizontal Tangler",
+              "ja": "ホリゾンタルタングラー"
+            },
+            "note": {
+              "ja": "",
+              "en": ""
+            }
+          },
+          {
+            "id": "5a-level7-trick2",
             "name": {
               "en": "Free Fall Suicide",
               "ja": "フリーフォールスーサイド"
@@ -3249,6 +3970,7 @@
             }
           },
           {
+            "id": "5a-level7-trick3",
             "name": {
               "en": "Ether",
               "ja": "エーテル"
@@ -3259,6 +3981,7 @@
             }
           },
           {
+            "id": "5a-level7-trick4",
             "name": {
               "en": "Horizontal Spirals",
               "ja": "ホリゾンタルスパイラルス"
@@ -3269,6 +3992,7 @@
             }
           },
           {
+            "id": "5a-level7-trick5",
             "name": {
               "en": "Double Slack",
               "ja": "ダブルスラック"
@@ -3279,6 +4003,7 @@
             }
           },
           {
+            "id": "5a-level7-trick6",
             "name": {
               "en": "Clockwork",
               "ja": "クロックワーク"
@@ -3289,6 +4014,7 @@
             }
           },
           {
+            "id": "5a-level7-trick7",
             "name": {
               "en": "Horizontal Turnstiles",
               "ja": "ホリゾンタルターンスタイルス"
@@ -3299,6 +4025,7 @@
             }
           },
           {
+            "id": "5a-level7-trick8",
             "name": {
               "en": "Turnstile Stalls",
               "ja": "ターンスタイルストールス"
@@ -3309,6 +4036,7 @@
             }
           },
           {
+            "id": "5a-level7-trick9",
             "name": {
               "en": "Freegen",
               "ja": "フリージェン"
