@@ -12,13 +12,11 @@ import {
   Prop,
   Vue
 } from "nuxt-property-decorator"
-import Trick from "./Trick.vue"
 import Level from "./Level.vue";
 
 @Component({
   components: {
       Level,
-    Trick
   }
 })
 export default class Category extends Vue {

@@ -1,6 +1,11 @@
 export namespace utils {
+    export interface Content {
+        ja: string
+        en: string
+    }
     export interface Trick {
-        name: string
+        name: Content
+        note: Content
     }
 
     export interface Level {
@@ -13,11 +18,11 @@ export namespace utils {
     }
 }
 
-export function findTrickByName(categories: utils.Category[], name: string): utils.Trick | null {
+export function findTrickByName(categories: utils.Category[], name: string, locale: string): utils.Trick | null {
   for (const category of categories) {
     for (const level of category.levels) {
       for ( const trick of level.tricks ) {
-        if (trick.name === name) {
+        if (trick.name[locale] === name) {
           return trick
         }
       }
