@@ -1,11 +1,12 @@
 <template>
-    <el-card class="trick-card">
+    <el-card class="trick-card" shadow="hover">
         <div slot="header" class="clearfix">
-            <span class="title">{{trick.name.ja}}</span>
+            <div class="title">{{trick.name.ja}}</div>
+            <div class="title">{{trick.name.en}}</div>
         </div>
-        <div class="title">{{trick.name.en}}</div>
         <div v-if="isExpanded">
             <iframe class="youtubePlayer" :src="videoUrl" />
+            <div>{{trick.note.ja}}</div>
         </div>
     </el-card>
 </template>

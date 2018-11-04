@@ -7,7 +7,7 @@
         </h3>
 
         <el-row :gutter="20" v-if="isExpanded">
-            <el-col :span="12" :xs="24" :md=12 :lg="6" v-for="(trick, index) in level.tricks" :key=trick.id>
+            <el-col :span="12" :xs="24" :md=12 :lg="8" v-for="(trick, index) in level.tricks" :key=trick.id>
                 <Trick :trick="trick" isExpanded="true" />
             </el-col>
         </el-row>
