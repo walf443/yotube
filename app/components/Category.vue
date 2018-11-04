@@ -28,7 +28,6 @@ export default class Category extends Vue {
 </script>
 <style>
     h2 a {
-        color: white;
         text-decoration: none;
     }
     h2 a:hover {

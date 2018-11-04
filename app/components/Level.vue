@@ -39,7 +39,6 @@
 
 <style scoped>
     h3 a {
-        color: white;
         text-decoration: none;
     }
     .el-col {
