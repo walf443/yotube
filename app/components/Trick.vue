@@ -1,11 +1,13 @@
 <template>
-    <div>
-        <div class="title">{{trick.name.ja}}</div>
+    <el-card class="trick-card">
+        <div slot="header" class="clearfix">
+            <span class="title">{{trick.name.ja}}</span>
+        </div>
         <div class="title">{{trick.name.en}}</div>
         <div v-if="isExpanded">
             <iframe class="youtubePlayer" :src="videoUrl" />
         </div>
-    </div>
+    </el-card>
 </template>
 
 <script lang="ts">
@@ -27,6 +29,18 @@
 </script>
 
 <style scoped>
+    .trick-card {
+        width: 440px;
+        min-height: 500px;
+    }
+    .clearfix:before, .clearfix:after {
+        display: table;
+        content: "";
+    }
+    .clearfix:after {
+        clear: both;
+    }
+
     .youtubePlayer {
         width: 400px;
         height: 300px;

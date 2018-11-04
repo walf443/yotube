@@ -6,11 +6,11 @@
             </nuxt-link>
         </h3>
 
-        <div v-if="isExpanded" class="trick-container">
-            <div class="trick-item" v-for="(trick, index) in level.tricks" :key=trick.id style="display: flex; flex: ">
+        <el-row :gutter="20" v-if="isExpanded">
+            <el-col :span="12" :xs="24" :md=12 :lg="6" v-for="(trick, index) in level.tricks" :key=trick.id>
                 <Trick :trick="trick" isExpanded="true" />
-            </div>
-        </div>
+            </el-col>
+        </el-row>
     </div>
 </template>
 <script lang="ts">
@@ -42,14 +42,12 @@
         color: white;
         text-decoration: none;
     }
-
-    .trick-container {
-        display: inline-flex;
-        justify-content: left;
-        flex-wrap: wrap;
-        flex: 1;
+    .el-col {
+        margin-bottom: 20px;
+        &:last-child {
+            margin-bottom: 0;
+        }
     }
 
-    .trick-item {
-    }
+
 </style>

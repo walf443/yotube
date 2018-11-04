@@ -61,5 +61,8 @@ module.exports = {
     "@nuxtjs/axios",
     "~/modules/typescript.js"
   ],
+  plugins: [
+    "~/plugins/element.js"
+  ],
   axios: {}
 }
