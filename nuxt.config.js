@@ -26,7 +26,7 @@ module.exports = {
   },
   srcDir: "app",
   head: {
-    title: "tt1",
+    title: "Yoyotube",
     meta: [
       { charset: "utf-8" },
       {
