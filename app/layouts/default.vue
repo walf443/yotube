@@ -5,6 +5,7 @@
         </el-header>
         <el-container>
             <el-aside width="200px">
+                <TheSidebar/>
             </el-aside>
             <el-container>
                 <el-main id="TheMain">
@@ -36,8 +37,9 @@
 </style>
 <script>
     import TheHeader from "./TheHeader";
+    import TheSidebar from "./TheSidebar";
 
     export default {
-        components: {TheHeader}
+        components: {TheSidebar, TheHeader}
     }
 </script>
