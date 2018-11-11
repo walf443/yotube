@@ -23,6 +23,9 @@ export default class extends Vue {
   get category (): utils.Category | null {
     return findCategoryByName(this.categories, '1A');
   }
+  async fetch({ store, route }) {
+      store.dispatch('routeChanged', { route: route });
+  }
 }
 </script>
 <style scoped>

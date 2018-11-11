@@ -44,5 +44,22 @@ export const actions = {
     } else {
         commit('setCurrent', null, null);
     }
-  }
+  },
+  async routeChanged ({ commit }, { route }) {
+    const components = route.fullPath.split('/');
+    if (components.length > 1) {
+        const category = findCategoryByName(this.state.categories, components[1]);
+        if (category != null) {
+            if (components.length > 2) {
+                const level = findCategoryLevel(this.state.categories, category.name, components[2]);
+
+                commit('setCurrent', category, level);
+            } else {
+                commit('setCurrent', category, null);
+            }
+        }
+    } else {
+        commit('setCurrent', null, null);
+    }
+  },
 }
