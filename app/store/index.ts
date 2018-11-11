@@ -57,6 +57,8 @@ export const actions = {
             } else {
                 commit('setCurrent', category, null);
             }
+        } else {
+            commit('setCurrent', null, null);
         }
     } else {
         commit('setCurrent', null, null);

@@ -19,6 +19,9 @@ import Category from "../components/Category.vue"
 })
 export default class extends Vue {
   @State categories
+  async fetch({ store, route }) {
+      store.dispatch('routeChanged', { route: route });
+  }
 }
 </script>
 <style scoped>
