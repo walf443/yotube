@@ -23,7 +23,7 @@
     @Prop() isExpanded;
 
     get videoUrl() {
-      return "http://www.youtube.com/embed?listType=search&amp;list=" + encodeURIComponent("ヨーヨー " + this.trick.name.ja);
+      return "https://www.youtube.com/embed?listType=search&amp;list=" + encodeURIComponent("ヨーヨー " + this.trick.name.ja);
     }
 
     toggleExpand() {
