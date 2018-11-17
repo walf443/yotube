@@ -11,7 +11,7 @@
                 <el-main id="TheMain">
                     <nuxt/>
                 </el-main>
-                <el-footer id="TheFooter"><a href="https://github.com/walf443/yo tube/issues" target="_blank" rel="noopener">Contact</a></el-footer>
+                <el-footer id="TheFooter"><a href="https://github.com/walf443/yotube/issues" target="_blank" rel="noopener">Contact</a></el-footer>
             </el-container>
         </el-container>
     </el-container>
