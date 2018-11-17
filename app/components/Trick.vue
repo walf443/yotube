@@ -6,9 +6,10 @@
 
             <el-button class="btn-see-more" type="text" @click="handleSeeMore">別の動画を探す</el-button>
         </div>
-        <div v-if="isExpanded">
-            <iframe class="youtubePlayer" :src="videoUrl" />
-            <div>{{trick.note.ja}}</div>
+        <div v-if="isExpanded" class="item">
+            <div>
+                <iframe class="youtubePlayer" :src="videoUrl" />
+            </div>
         </div>
     </el-card>
 </template>
