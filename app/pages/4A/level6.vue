@@ -7,7 +7,7 @@ export default class extends LevelPage {
     }
 
     get levelIndex(): number {
-        return 0;
+        return 5;
     }
 
 }
