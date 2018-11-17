@@ -29,21 +29,6 @@ export const actions = {
       "./tricks.json"
     );
     commit("setCategories", categories);
-    const components = req.url.split('/');
-    if (components.length > 1) {
-      const category = findCategoryByName(categories, components[1]);
-      if (category != null) {
-        if (components.length > 2) {
-            const level = findCategoryLevel(categories, category.name, components[2]);
-
-            commit('setCurrent', category, level);
-        } else {
-          commit('setCurrent', category, null);
-        }
-      }
-    } else {
-        commit('setCurrent', null, null);
-    }
   },
   async routeChanged ({ commit }, { route }) {
     const components = route.fullPath.split('/');
