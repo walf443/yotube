@@ -11,7 +11,7 @@
                 <el-main id="TheMain">
                     <nuxt/>
                 </el-main>
-                <el-footer>Powered by Next.js</el-footer>
+                <el-footer id="TheFooter"><a href="https://github.com/walf443/yo tube/issues" target="_blank" rel="noopener">Contact</a></el-footer>
             </el-container>
         </el-container>
     </el-container>
@@ -24,6 +24,14 @@
     }
 
     #TheMain {
+    }
+
+    #TheFooter {
+        text-align: center;
+    }
+
+    #TheFooter a {
+        color: #666;
     }
 
     body > .el-container {

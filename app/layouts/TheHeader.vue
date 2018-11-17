@@ -1,7 +1,7 @@
 <template>
     <el-menu mode="horizontal">
         <el-menu-item index="1" @click="$router.push('/')">
-            <nuxt-link id="TheLogo" :to="{ path: '/' }">Yoyotube</nuxt-link>
+            <nuxt-link id="TheLogo" :to="{ path: '/' }">Yo tube</nuxt-link>
         </el-menu-item>
         <el-menu-item index="2" @click="$router.push('/1A/level1')">
             <nuxt-link :to="{ path: '/1A/level1' }">1A</nuxt-link>
