@@ -21,6 +21,11 @@ import Level from "../components/Level"
 
 export default class LevelPage extends Vue {
   @State categories;
+
+  async fetch({ store, route }) {
+      store.dispatch('routeChanged', { route: route });
+  }
+
   get category(): utils.Category | null {
       return findCategoryByName(this.categories, this.categoryName);
   }
