@@ -7,6 +7,7 @@
     "dev": "nuxt",
     "generate": "nuxt generate",
     "start": "nuxt start",
+    "deploy": "nuxt generate && firebase deploy",
     "yaml2json": "js-yaml app/static/tricks.yml > app/static/tricks.json"
   },
   "dependencies": {
@@ -19,6 +20,7 @@
   "devDependencies": {
     "@types/node": "^10.12.0",
     "cheerio-httpcli": "^0.7.3",
+    "firebase-tools": "^6.1.0",
     "js-yaml": "^3.12.0",
     "ts-loader": "^5.2.1",
     "typescript": "^3.1.3",
