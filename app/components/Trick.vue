@@ -3,6 +3,8 @@
         <div slot="header" class="clearfix">
             <div class="title">{{trick.name.ja}}</div>
             <div class="title">{{trick.name.en}}</div>
+
+            <el-button class="btn-see-more" type="text" @click="handleSeeMore">別の動画を探す</el-button>
         </div>
         <div v-if="isExpanded">
             <iframe class="youtubePlayer" :src="videoUrl" />
@@ -26,6 +28,10 @@
     toggleExpand() {
         this.isExpanded = !this.isExpanded;
     }
+
+    handleSeeMore() {
+        window.open('https://www.youtube.com/results?search_query=' + encodeURIComponent("ヨーヨー " + this.trick.name.ja));
+    }
   }
 </script>
 
@@ -34,10 +40,16 @@
         width: 440px;
         min-height: 500px;
     }
+
+    .btn-see-more {
+        float: right;
+    }
+
     .clearfix:before, .clearfix:after {
         display: table;
         content: "";
     }
+
     .clearfix:after {
         clear: both;
     }
