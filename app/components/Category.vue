@@ -1,6 +1,6 @@
 <template>
   <div>
-      <h2><nuxt-link :to="{ 'path': `/${category.name}` }">{{ category.name }}</nuxt-link></h2>
+      <h2><nuxt-link :to="{ 'path': `/${category.name}/level1` }">{{ category.name }}</nuxt-link></h2>
     <div v-for="(level, index) in category.levels" :key=level.id>
         <Level :index="index" :level="level" :category="category" />
     </div>
