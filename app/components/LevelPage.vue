@@ -10,26 +10,31 @@ import {
   Vue
 } from "nuxt-property-decorator"
 import { State } from "vuex-class"
-import {utils, findCategoryByName, findCategoryLevel} from "../../utils/trick"
-import Level from "../../components/Level"
+import {utils, findCategoryByName, findCategoryLevel} from "../utils/trick"
+import Level from "../components/Level"
 
 @Component({
   components: {
       Level
   }
 })
-export default class extends Vue {
+
+export default class LevelPage extends Vue {
   @State categories;
   get category(): utils.Category | null {
-      return findCategoryByName(this.categories, '2A');
+      return findCategoryByName(this.categories, this.categoryName);
   }
 
   get level (): utils.Level | null {
-    return findCategoryLevel(this.categories, '3A', this.levelIndex);
+    return findCategoryLevel(this.categories, this.categoryName, this.levelIndex);
+  }
+
+  get categoryName(): string {
+      throw 'please override';
   }
 
   get levelIndex(): number {
-      return 0;
+      throw 'please override';
   }
 }
 </script>
