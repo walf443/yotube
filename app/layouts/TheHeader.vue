@@ -37,4 +37,13 @@
         text-decoration: none;
     }
 
+    @media screen and (max-width: 450px) {
+        #TheLogo {
+            padding: 16px;
+        }
+        .el-menu-item {
+            padding: 12px;
+        }
+    }
+
 </style>

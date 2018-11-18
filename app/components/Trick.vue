@@ -65,4 +65,15 @@
         font-weight: bold;
     }
 
+    @media screen and (max-width: 450px) {
+        .trick-card {
+            width: 330px;
+        }
+
+        .youtubePlayer {
+            width: 284px;
+            height: 213px;
+        }
+    }
+
 </style>

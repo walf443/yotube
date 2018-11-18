@@ -23,6 +23,16 @@
         sans-serif;
     }
 
+    @media screen and (max-width: 450px) {
+        #TheHeader {
+            padding: 12px;
+        }
+
+        #TheSidebar {
+            display: none;
+        }
+    }
+
     #TheMain {
     }
 
