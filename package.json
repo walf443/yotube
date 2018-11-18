@@ -5,15 +5,16 @@
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt",
-    "generate": "nuxt generate",
+    "generate": "nuxt-generate -w 4 -b",
     "start": "nuxt start",
-    "deploy": "nuxt generate && firebase deploy",
+    "deploy": "nuxt-generate -w 4 -b && firebase deploy",
     "yaml2json": "js-yaml app/static/tricks.yml > app/static/tricks.json"
   },
   "dependencies": {
     "@nuxtjs/axios": "^5.0.0",
     "element-ui": "^2.4.9",
     "nuxt": "^2.2.0",
+    "nuxt-generate-cluster": "^2.0.2",
     "nuxt-property-decorator": "^1.2.0",
     "vuex-class": "^0.3.0"
   },
