@@ -68,6 +68,7 @@
     @media screen and (max-width: 450px) {
         .trick-card {
             width: 330px;
+            min-height: initial;
         }
 
         .youtubePlayer {
