@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@nuxtjs/axios": "^5.0.0",
+    "core-js": "2",
     "element-ui": "2.7.2",
     "nuxt": "2.3.4",
     "nuxt-generate-cluster": "^2.0.2",
