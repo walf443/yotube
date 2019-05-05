@@ -1,11 +1,11 @@
 <template>
-    <el-menu mode="vertical" v-if="currentCategory" :default-active="activeMenuIndex">
-        <el-menu-item v-for="(level, index) in currentCategory.levels" :key="`sidebar-${level.id}`"
+    <div class="menu" v-if="currentCategory">
+        <div class="menu-item" v-for="(level, index) in currentCategory.levels" :key="`sidebar-${level.id}`"
             :index="index.toString()" @click="$router.push(`/${currentCategory.name}/${level.name}`)">
 
             <nuxt-link :to="{ path: `/${currentCategory.name}/${level.name}` }">{{`レベル${index + 1}`}}</nuxt-link>
-        </el-menu-item>
-    </el-menu>
+        </div>
+    </div>
 </template>
 <script lang="ts">
     import {
@@ -49,8 +49,19 @@
 </script>
 
 <style scoped>
-    .el-menu-item a {
+    .menu {
+        display: flex;
+        flex-flow: column;
+        text-align: center;
+        margin-top: 20px;
+    }
+
+
+    .menu-item a {
+        display: block;
         color: black;
+        width: 100%;
+        height: 40px;
         text-decoration: none;
     }
 
