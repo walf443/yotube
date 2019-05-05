@@ -1,6 +1,6 @@
 <template>
-    <el-card class="trick-card" shadow="hover">
-        <div slot="header" class="clearfix">
+    <div class="trick-card">
+        <div class="clearfix">
             <div class="title">{{trick.name.ja}}</div>
             <div class="title">{{trick.name.en}}</div>
 
@@ -11,7 +11,7 @@
                 <iframe class="youtubePlayer" :src="videoUrl" />
             </div>
         </div>
-    </el-card>
+    </div>
 </template>
 
 <script lang="ts">
@@ -38,8 +38,9 @@
 
 <style scoped>
     .trick-card {
-        width: 440px;
-        min-height: 500px;
+        max-width: 440px;
+        margin: auto;
+        margin-bottom: 40px;
     }
 
     .btn-see-more {
