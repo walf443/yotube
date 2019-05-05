@@ -15,7 +15,7 @@
 </template>
 <script lang="ts">
     import {Vue, Component, Prop} from "nuxt-property-decorator";
-    import Trick from "./Trick"
+    import Trick from "./Trick.vue"
 
     @Component({
         components: {Trick},

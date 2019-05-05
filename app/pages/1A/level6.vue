@@ -1,5 +1,5 @@
 <script lang="ts">
-import LevelPage from "../../components/LevelPage"
+import LevelPage from "../../components/LevelPage.vue"
 
 export default class extends LevelPage {
     get categoryName(): string {

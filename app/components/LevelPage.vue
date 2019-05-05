@@ -27,7 +27,7 @@ import {
 } from "nuxt-property-decorator"
 import { State } from "vuex-class"
 import {utils, findCategoryByName, findCategoryLevel} from "../utils/trick"
-import Level from "../components/Level"
+import Level from "../components/Level.vue"
 
 @Component({
   components: {

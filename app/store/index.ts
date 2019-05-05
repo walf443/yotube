@@ -24,19 +24,19 @@ export const mutations = {
 }
 
 export const actions = {
-  async nuxtServerInit({ commit }, { app, req }) {
+  async nuxtServerInit({ commit }, { app }) {
     const categories = await app.$axios.$get(
       "./tricks.json"
     );
     commit("setCategories", categories);
   },
-  async routeChanged ({ commit }, { route }) {
+  async routeChanged ({ commit }, { route, state }) {
     const components = route.fullPath.split('/');
     if (components.length > 1) {
-        const category = findCategoryByName(this.state.categories, components[1]);
+        const category = findCategoryByName(state.categories, components[1]);
         if (category != null) {
             if (components.length > 2) {
-                const level = findCategoryLevel(this.state.categories, category.name, components[2]);
+                const level = findCategoryLevel(state.categories, category.name, components[2]);
 
                 commit('setCurrent', category, level);
             } else {
