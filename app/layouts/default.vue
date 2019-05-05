@@ -1,42 +1,42 @@
 <template>
-    <el-container>
-        <el-header id="TheHeader">
+    <div id="TheLayout">
+        <div id="TheHeader">
             <TheHeader />
-        </el-header>
-        <el-container>
-            <el-aside id="TheSidebar" width="150px">
-                <TheSidebar/>
-            </el-aside>
-            <el-container>
-                <el-main id="TheMain">
-                    <nuxt/>
-                </el-main>
-                <el-footer id="TheFooter"><a href="https://github.com/walf443/yotube/issues" target="_blank" rel="noopener">Contact</a></el-footer>
-            </el-container>
-        </el-container>
-    </el-container>
+        </div>
+        <div id="TheSidebar">
+            <TheSidebar/>
+        </div>
+        <div id="TheMain">
+            <nuxt/>
+        </div>
+        <div id="TheFooter">
+            <a href="https://github.com/walf443/yotube/issues" target="_blank" rel="noopener">Contact</a>
+        </div>
+    </div>
 </template>
 
 <style scoped>
+    #TheLayout {
+        display: grid;
+        grid-template-columns: 150px 1fr;
+    }
     #TheHeader {
         font-family: "Segoe UI", Tahoma, Geneva, Verdana,
         sans-serif;
+        grid-column: 1 / 3;
     }
 
-    @media screen and (max-width: 450px) {
-        #TheHeader {
-            padding: 12px;
-        }
-
-        #TheSidebar {
-            display: none;
-        }
+    #TheSidebar {
+        grid-column: 1 / 2;
+        width: 150px;
     }
 
     #TheMain {
+        grid-column: 2 / 3;
     }
 
     #TheFooter {
+        grid-column: 2 / 3;
         text-align: center;
     }
 
@@ -44,14 +44,24 @@
         color: #666;
     }
 
-    body > .el-container {
-        margin-bottom: 40px;
+    @media screen and (max-width: 450px) {
+        #TheLayout {
+            grid-template-columns: 0 1fr;
+        }
+
+        #TheHeader {
+            padding: 12px;
+        }
+
+        #TheSidebar {
+            display: none;
+        }
+
+        #TheMain {
+            grid-column: 1 / 3;
+        }
     }
 
-    .el-container:nth-child(1) .el-aside,
-    .el-container:nth-child(2) .el-aside {
-        line-height: 260px;
-    }
 </style>
 <script>
     import TheHeader from "./TheHeader";
