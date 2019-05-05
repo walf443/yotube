@@ -6,11 +6,11 @@
             </nuxt-link>
         </h3>
 
-        <el-row :gutter="20" v-if="isExpanded">
-            <el-col :span="12" :xs="24" :md=12 :lg="8" v-for="(trick, index) in level.tricks" :key=trick.id>
+        <div class="tricks" v-if="isExpanded">
+            <div class="trick" v-for="(trick, index) in level.tricks" :key=trick.id>
                 <Trick :trick="trick" isExpanded="true" />
-            </el-col>
-        </el-row>
+            </div>
+        </div>
     </div>
 </template>
 <script lang="ts">
@@ -38,6 +38,15 @@
 </script>
 
 <style scoped>
+    .tricks {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(440px, 1fr))
+    }
+
+    .trick {
+
+    }
+
     h3 a {
         text-decoration: none;
     }
