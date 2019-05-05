@@ -32,6 +32,7 @@
     }
 
     #TheMain {
+        margin-top: 20px;
         grid-column: 2 / 3;
     }
 
