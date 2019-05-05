@@ -32,7 +32,7 @@ export const actions = {
   },
   async routeChanged ({ commit }, { route, state }) {
     const components = route.fullPath.split('/');
-    if (components.length > 1 && state != null) {
+    if (components.length > 1) {
         const category = findCategoryByName(state.categories, components[1]);
         if (category != null) {
             if (components.length > 2) {
