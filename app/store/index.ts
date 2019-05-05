@@ -30,7 +30,7 @@ export const actions = {
     );
     commit("setCategories", categories);
   },
-  async routeChanged ({ commit }, { route, state }) {
+  async routeChanged ({ commit, state }, { route }) {
     const components = route.fullPath.split('/');
     if (components.length > 1 && state != null) {
         const category = findCategoryByName(state.categories, components[1]);
